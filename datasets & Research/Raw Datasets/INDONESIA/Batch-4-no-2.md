@@ -1,6 +1,6 @@
 ```markdown```
 
-# 2. HUMAS-AI CONVERSATION
+# 2. HUMANS-AI CONVERSATION
 ```json
 
 [
