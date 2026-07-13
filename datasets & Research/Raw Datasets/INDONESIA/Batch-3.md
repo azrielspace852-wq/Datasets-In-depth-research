@@ -370,3 +370,97 @@ F
 ```
 
 ---
+
+BATCH 3 (LANJUTAN): BAHASA INDONESIA FORMAL - KATA SERAPAN, ISTILAH ILMIAH, TEKNIS, & KHUSUS (G-H)
+
+G
+
+```json
+[
+  {"lema": "gabungan", "jenis": "Nomina", "definisi": "Kumpulan beberapa bagian yang bersatu; persekutuan; konsorsium.", "contoh": "Gabungan perusahaan itu memenangkan tender."},
+  {"lema": "gadget", "jenis": "Nomina", "definisi": "Perangkat elektronik kecil dengan fungsi khusus, seperti ponsel atau tablet.", "contoh": "Gadget terbaru dilengkapi dengan AI."},
+  {"lema": "galaksi", "jenis": "Nomina", "definisi": "Sistem bintang yang sangat besar, termasuk debu dan gas antarbintang.", "contoh": "Bima Sakti adalah galaksi tempat kita berada."},
+  {"lema": "galangan", "jenis": "Nomina", "definisi": "Tempat untuk membangun atau memperbaiki kapal.", "contoh": "Kapal itu sedang diperbaiki di galangan."},
+  {"lema": "galeri", "jenis": "Nomina", "definisi": "Ruang atau gedung untuk memamerkan karya seni.", "contoh": "Galeri seni itu memamerkan lukisan abstrak."},
+  {"lema": "gambaran", "jenis": "Nomina", "definisi": "Deskripsi atau lukisan tentang sesuatu; representasi.", "contoh": "Gambaran tentang masa depan sangat cerah."},
+  {"lema": "gamet", "jenis": "Nomina", "definisi": "Sel reproduksi yang matang, seperti sperma atau sel telur.", "contoh": "Gamet diperlukan untuk pembuahan."},
+  {"lema": "gangguan", "jenis": "Nomina", "definisi": "Hal yang mengacaukan atau mengganggu ketenangan; interferensi.", "contoh": "Gangguan sinyal membuat telepon tidak berfungsi."},
+  {"lema": "ganjar", "jenis": "Verba", "definisi": "Memberi hadiah atau hukuman sebagai balasan atas perbuatan.", "contoh": "Hakim akan menghukum dengan ganjar."},
+  {"lema": "garansi", "jenis": "Nomina", "definisi": "Jaminan dari produsen bahwa produk akan diperbaiki atau diganti jika rusak dalam waktu tertentu.", "contoh": "Laptop ini masih dalam masa garansi."},
+  {"lema": "gardu", "jenis": "Nomina", "definisi": "Rumah kecil untuk menjaga atau pos penjagaan.", "contoh": "Gardu listrik itu penting."},
+  {"lema": "garnisun", "jenis": "Nomina", "definisi": "Pasukan militer yang ditempatkan di suatu pos atau kota untuk menjaga keamanan.", "contoh": "Garnisun itu ditempatkan di perbatasan."},
+  {"lema": "gas", "jenis": "Nomina", "definisi": "Zat yang tidak berbentuk padat atau cair, sering digunakan sebagai bahan bakar.", "contoh": "Gas elpiji digunakan untuk memasak."},
+  {"lema": "gastronomi", "jenis": "Nomina", "definisi": "Seni dan ilmu tentang makanan dan budaya masak-memasak.", "contoh": "Gastronomi Indonesia sangat beragam."},
+  {"lema": "gemologi", "jenis": "Nomina", "definisi": "Ilmu tentang batu mulia dan permata.", "contoh": "Gemologi mempelajari keaslian batu mulia."},
+  {"lema": "generasi", "jenis": "Nomina", "definisi": "Sekelompok orang yang lahir dalam periode waktu tertentu dan memiliki karakteristik yang sama.", "contoh": "Generasi muda adalah harapan bangsa."},
+  {"lema": "genetika", "jenis": "Nomina", "definisi": "Cabang biologi yang mempelajari pewarisan sifat dari generasi ke generasi.", "contoh": "Genetika menjelaskan mengapa kita mirip orang tua."},
+  {"lema": "genius", "jenis": "Nomina", "definisi": "Orang yang memiliki kecerdasan luar biasa; jenius.", "contoh": "Einstein adalah genius di bidang fisika."},
+  {"lema": "geografi", "jenis": "Nomina", "definisi": "Ilmu yang mempelajari tentang bumi, permukaannya, dan hubungannya dengan manusia.", "contoh": "Geografi mempelajari letak gunung dan sungai."},
+  {"lema": "geologi", "jenis": "Nomina", "definisi": "Ilmu yang mempelajari tentang struktur bumi dan lapisannya.", "contoh": "Geologi berguna untuk mencari sumber daya mineral."},
+  {"lema": "geometri", "jenis": "Nomina", "definisi": "Cabang matematika yang mempelajari bentuk, ukuran, dan posisi benda.", "contoh": "Geometri membantu arsitek merancang bangunan."},
+  {"lema": "gerakan", "jenis": "Nomina", "definisi": "Perpindahan posisi; aktivitas atau tindakan kolektif.", "contoh": "Gerakan sosial mengubah tatanan masyarakat."},
+  {"lema": "gesekan", "jenis": "Nomina", "definisi": "Gaya yang timbul akibat sentuhan antara dua permukaan yang saling bergerak.", "contoh": "Gesekan antara karet dan aspal menghasilkan panas."},
+  {"lema": "global", "jenis": "Adjektiva", "definisi": "Meliputi seluruh dunia; universal.", "contoh": "Isu global mempengaruhi semua negara."},
+  {"lema": "globalisasi", "jenis": "Nomina", "definisi": "Proses integrasi ekonomi, budaya, dan sosial secara internasional.", "contoh": "Globalisasi membawa perubahan besar."},
+  {"lema": "globe", "jenis": "Nomina", "definisi": "Bola dunia; model tiga dimensi dari bumi.", "contoh": "Globe digunakan untuk mempelajari geografi."},
+  {"lema": "glukosa", "jenis": "Nomina", "definisi": "Gula sederhana yang menjadi sumber energi utama bagi tubuh.", "contoh": "Glukosa diperlukan untuk aktivitas fisik."},
+  {"lema": "gramatikal", "jenis": "Adjektiva", "definisi": "Sesuai dengan aturan tata bahasa; sahih secara sintaksis.", "contoh": "Kalimat itu tidak gramatikal."},
+  {"lema": "granat", "jenis": "Nomina", "definisi": "Senjata peledak yang dapat dilemparkan atau diluncurkan.", "contoh": "Granat itu meledak."},
+  {"lema": "grafis", "jenis": "Nomina", "definisi": "Ilmu tentang gambar, desain, dan komunikasi visual.", "contoh": "Desain grafis sangat penting dalam iklan."},
+  {"lema": "gratifikasi", "jenis": "Nomina", "definisi": "Pemberian hadiah atau uang di luar upah resmi, sering sebagai suap.", "contoh": "Gratifikasi dalam bentuk apapun dilarang."},
+  {"lema": "gravitasi", "jenis": "Nomina", "definisi": "Gaya tarik menarik antara benda-benda di alam semesta.", "contoh": "Gravitasi membuat benda jatuh ke bumi."},
+  {"lema": "griya", "jenis": "Nomina", "definisi": "Rumah atau bangunan tempat tinggal, sering digunakan dalam nama bisnis properti.", "contoh": "Griya itu modern dan minimalis."},
+  {"lema": "gubernur", "jenis": "Nomina", "definisi": "Kepala pemerintahan provinsi di Indonesia.", "contoh": "Gubernur itu melakukan kunjungan kerja."},
+  {"lema": "gugatan", "jenis": "Nomina", "definisi": "Tuntutan hukum yang diajukan oleh satu pihak kepada pihak lain.", "contoh": "Gugatan itu ditolak oleh pengadilan."},
+  {"lema": "gulma", "jenis": "Nomina", "definisi": "Tumbuhan pengganggu yang tumbuh di lahan pertanian; rumput liar.", "contoh": "Gulma harus dibersihkan agar tanaman tumbuh subur."},
+  {"lema": "guncangan", "jenis": "Nomina", "definisi": "Kejutan atau goncangan yang mempengaruhi stabilitas.", "contoh": "Guncangan ekonomi terjadi akibat inflasi."},
+  {"lema": "gunting", "jenis": "Nomina", "definisi": "Alat untuk memotong yang memiliki dua mata pisau.", "contoh": "Gunting ini tumpul."}
+]
+```
+
+H
+
+```json
+[
+  {"lema": "habitat", "jenis": "Nomina", "definisi": "Tempat alami bagi suatu organisme untuk hidup dan berkembang.", "contoh": "Habitat harimau adalah hutan tropis."},
+  {"lema": "hak", "jenis": "Nomina", "definisi": "Kekuasaan atau kewenangan yang dimiliki seseorang secara hukum atau moral.", "contoh": "Hak asasi manusia harus dihormati."},
+  {"lema": "hakim", "jenis": "Nomina", "definisi": "Pejabat yang memimpin dan memutuskan perkara di pengadilan.", "contoh": "Hakim itu memutuskan dengan adil."},
+  {"lema": "halusinasi", "jenis": "Nomina", "definisi": "Pengalaman sensorik yang tidak nyata, seperti melihat atau mendengar sesuatu yang tidak ada.", "contoh": "Halusinasi bisa terjadi karena efek samping obat."},
+  {"lema": "hama", "jenis": "Nomina", "definisi": "Organisme yang merusak tanaman atau hewan ternak; gangguan.", "contoh": "Hama wereng menyerang sawah."},
+  {"lema": "hambatan", "jenis": "Nomina", "definisi": "Rintangan atau faktor yang memperlambat suatu proses.", "contoh": "Hambatan dalam pembangunan adalah kurangnya dana."},
+  {"lema": "hansip", "jenis": "Nomina", "definisi": "Satuan keamanan yang bertugas menjaga keamanan di lingkungan desa.", "contoh": "Hansip itu bertugas malam hari."},
+  {"lema": "hapus", "jenis": "Verba", "definisi": "Menghilangkan atau membuang sesuatu; menghapus.", "contoh": "Hapus tulisan di papan tulis."},
+  {"lema": "hardware", "jenis": "Nomina", "definisi": "Perangkat keras komputer, seperti CPU, monitor, dan keyboard.", "contoh": "Hardware komputer itu sudah usang."},
+  {"lema": "harian", "jenis": "Adjektiva", "definisi": "Terjadi setiap hari; sehari-hari.", "contoh": "Koran harian itu selalu dibacanya."},
+  {"lema": "harmonis", "jenis": "Adjektiva", "definisi": "Berjalan serasi dan seimbang; tidak bertentangan.", "contoh": "Suasana yang harmonis membuat nyaman."},
+  {"lema": "hasrat", "jenis": "Nomina", "definisi": "Keinginan kuat; nafsu; ambisi.", "contoh": "Hasratnya untuk belajar sangat tinggi."},
+  {"lema": "hati", "jenis": "Nomina", "definisi": "Organ dalam tubuh yang memompa darah; juga perasaan atau jiwa.", "contoh": "Hatinya gembira."},
+  {"lema": "hazard", "jenis": "Nomina", "definisi": "Resiko atau bahaya yang tidak terduga; terutama dalam permainan atau lalu lintas.", "contoh": "Hazard di jalan itu diperbaiki."},
+  {"lema": "hebat", "jenis": "Adjektiva", "definisi": "Luar biasa; sangat baik; kuat.", "contoh": "Pertandingan itu sangat hebat."},
+  {"lema": "hegemoni", "jenis": "Nomina", "definisi": "Dominasi atau pengaruh yang kuat dari satu kelompok atas kelompok lain.", "contoh": "Hegemoni budaya asing mempengaruhi gaya hidup."},
+  {"lema": "hektar", "jenis": "Nomina", "definisi": "Satuan luas yang sama dengan 10.000 meter persegi.", "contoh": "Lahan pertanian seluas dua hektar."},
+  {"lema": "hemat", "jenis": "Adjektiva", "definisi": "Tidak boros; cermat dalam menggunakan uang atau sumber daya.", "contoh": "Dia sangat hemat dan pandai menabung."},
+  {"lema": "hemoglobin", "jenis": "Nomina", "definisi": "Zat dalam sel darah merah yang mengikat oksigen.", "contoh": "Kadar hemoglobin rendah menyebabkan anemia."},
+  {"lema": "herbal", "jenis": "Adjektiva", "definisi": "Berkaitan dengan tumbuhan yang digunakan sebagai obat atau bahan alami.", "contoh": "Obat herbal semakin populer."},
+  {"lema": "hereditas", "jenis": "Nomina", "definisi": "Pewarisan sifat biologis dari orang tua ke anak; keturunan.", "contoh": "Hereditas mempengaruhi warna mata."},
+  {"lema": "hierarki", "jenis": "Nomina", "definisi": "Tingkatan atau struktur organisasi dari yang tertinggi hingga terendah.", "contoh": "Hierarki kepemimpinan perusahaan itu jelas."},
+  {"lema": "hilang", "jenis": "Verba", "definisi": "Tidak ada lagi; lenyap; tidak ditemukan.", "contoh": "Dompetnya hilang."},
+  {"lema": "himbau", "jenis": "Verba", "definisi": "Mengajak atau menyerukan dengan cara yang tidak memaksa.", "contoh": "Pemerintah menghimbau masyarakat untuk tetap di rumah."},
+  {"lema": "hindu", "jenis": "Nomina", "definisi": "Agama dan budaya yang berasal dari India.", "contoh": "Bali adalah pulau yang mayoritas penduduknya Hindu."},
+  {"lema": "hipotesis", "jenis": "Nomina", "definisi": "Pernyataan sementara yang digunakan sebagai dasar penelitian.", "contoh": "Hipotesis itu akan diuji melalui percobaan."},
+  {"lema": "hoki", "jenis": "Nomina", "definisi": "Keberuntungan; nasib baik.", "contoh": "Saya berharap hoki hari ini."},
+  {"lema": "homogen", "jenis": "Adjektiva", "definisi": "Seragam; sama; tidak bervariasi.", "contoh": "Komposisi itu homogen."},
+  {"lema": "honor", "jenis": "Nomina", "definisi": "Imbalan atau gaji yang diterima atas pekerjaan; juga kehormatan.", "contoh": "Honor dosen dibayar setiap bulan."},
+  {"lema": "horison", "jenis": "Nomina", "definisi": "Garis pertemuan antara langit dan bumi di kejauhan; cakrawala.", "contoh": "Matahari terbenam di horison."},
+  {"lema": "hormon", "jenis": "Nomina", "definisi": "Zat kimia yang dihasilkan oleh kelenjar untuk mengatur fungsi tubuh.", "contoh": "Hormon mempengaruhi pertumbuhan."},
+  {"lema": "hukum", "jenis": "Nomina", "definisi": "Peraturan yang dibuat oleh negara untuk mengatur perilaku masyarakat.", "contoh": "Hukum harus ditegakkan dengan adil."},
+  {"lema": "humanis", "jenis": "Adjektiva", "definisi": "Bersifat manusiawi; menjunjung tinggi nilai-nilai kemanusiaan.", "contoh": "Pendekatan humanis penting dalam psikologi."},
+  {"lema": "humanitas", "jenis": "Nomina", "definisi": "Kemanusiaan; sifat atau nilai yang berkaitan dengan martabat manusia.", "contoh": "Humanitas adalah inti dari filsafat."},
+  {"lema": "humid", "jenis": "Adjektiva", "definisi": "Lembab atau mengandung banyak uap air.", "contoh": "Udara di daerah tropis sangat humid."},
+  {"lema": "humor", "jenis": "Nomina", "definisi": "Kecakapan untuk membuat orang tertawa; kelucuan.", "contoh": "Humor adalah obat yang ampuh."},
+  {"lema": "hungga", "jenis": "Verba", "definisi": "Merasa kagum atau terpesona; terengah-engah (kuno).", "contoh": "Dia hungga melihat pemandangan itu."},
+  {"lema": "huraian", "jenis": "Nomina", "definisi": "Penjelasan atau uraian yang terperinci tentang suatu hal.", "contoh": "Huraian tentang teori itu sangat jelas."}
+]
+```
+
+---
