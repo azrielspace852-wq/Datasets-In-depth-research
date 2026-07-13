@@ -54,7 +54,7 @@ To share your recommendations or feedback:
 ### 📧 Contact
 
 For questions, permissions beyond the scope of this license, or collaboration inquiries, please open an issue or reach out via email:  
-**[your-email@domain.com]**
+**[azrielspace852@gmail.com]**
 
 ---
 
