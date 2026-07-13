@@ -144,3 +144,121 @@ B
 ```
 
 ---
+
+BATCH 3 (LANJUTAN): BAHASA INDONESIA FORMAL - HURUF C-D
+
+C
+
+```json
+[
+  {"lema": "cabai", "variasi": ["cabe"], "definisi": "Buah tanaman yang digunakan sebagai bumbu pedas.", "contoh": "Saya suka makanan pedas dengan cabai."},
+  {"lema": "cabang", "variasi": [], "definisi": "Bagian pohon yang tumbuh dari batang utama; juga bagian dari organisasi.", "contoh": "Cabang perusahaan itu terletak di beberapa kota."},
+  {"lema": "cabut", "variasi": ["mencabut"], "definisi": "Menarik atau mengeluarkan sesuatu dari tempatnya.", "contoh": "Gigi saya dicabut oleh dokter."},
+  {"lema": "cacing", "variasi": ["cacing tanah"], "definisi": "Hewan bertubuh lunak yang hidup di dalam tanah.", "contoh": "Cacing tanah bermanfaat untuk menyuburkan tanah."},
+  {"lema": "cahaya", "variasi": ["sinar"], "definisi": "Energi yang memungkinkan mata melihat; sinar.", "contoh": "Cahaya matahari sangat terang."},
+  {"lema": "cakap", "variasi": ["pandai"], "definisi": "Pandai berbicara atau bertindak; cerdik.", "contoh": "Dia sangat cakap dalam memimpin."},
+  {"lema": "cakep", "variasi": ["ganteng"], "definisi": "Tampan atau cantik; rupawan.", "contoh": "Kamu cakep banget hari ini!"},
+  {"lema": "calon", "variasi": ["kandidat"], "definisi": "Orang yang dipilih atau diharapkan untuk menduduki jabatan.", "contoh": "Calon presiden itu populer."},
+  {"lema": "camar", "variasi": [], "definisi": "Burung laut yang biasa ditemukan di pantai.", "contoh": "Camar terbang di atas lautan."},
+  {"lema": "campur", "variasi": ["mencampur"], "definisi": "Menggabungkan beberapa hal menjadi satu.", "contoh": "Campurkan bahan-bahan itu dengan rata."},
+  {"lema": "canda", "variasi": ["gurau"], "definisi": "Pernyataan atau tingkah laku yang lucu untuk membuat orang tertawa.", "contoh": "Dia suka bercanda."},
+  {"lema": "canggih", "variasi": ["modern"], "definisi": "Sangat maju dan modern dalam teknologi.", "contoh": "Ponsel ini sangat canggih."},
+  {"lema": "cangkir", "variasi": ["gelas"], "definisi": "Wadah untuk minum yang memiliki pegangan.", "contoh": "Kopi disajikan dalam cangkir."},
+  {"lema": "cantik", "variasi": ["elok"], "definisi": "Indah rupawan; menarik untuk dipandang.", "contoh": "Dia sangat cantik."},
+  {"lema": "cap", "variasi": ["stempel"], "definisi": "Alat untuk membuat tanda atau stempel.", "contoh": "Surat itu harus diberi cap."},
+  {"lema": "cara", "variasi": ["metode"], "definisi": "Metode atau langkah-langkah untuk mencapai tujuan.", "contoh": "Ada banyak cara untuk belajar."},
+  {"lema": "cari", "variasi": ["mencari"], "definisi": "Usaha untuk menemukan sesuatu.", "contoh": "Saya mencari buku yang hilang."},
+  {"lema": "catur", "variasi": ["permainan"], "definisi": "Permainan papan yang membutuhkan strategi.", "contoh": "Mereka bermain catur di sore hari."},
+  {"lema": "cawan", "variasi": ["mangkuk"], "definisi": "Wadah kecil untuk makan atau minum.", "contoh": "Cawan itu terbuat dari porselen."},
+  {"lema": "cebol", "variasi": ["kecil"], "definisi": "Orang atau benda yang sangat pendek.", "contoh": "Dia cebol tapi aktif."},
+  {"lema": "cecak", "variasi": [], "definisi": "Reptil kecil yang sering ditemukan di dinding.", "contoh": "Cecak sering mengeluarkan suara."},
+  {"lema": "cegah", "variasi": ["mencegah"], "definisi": "Menghindari atau menahan agar tidak terjadi.", "contoh": "Kita harus mencegah penyebaran penyakit."},
+  {"lema": "celana", "variasi": ["pants"], "definisi": "Pakaian bagian bawah yang menutupi kaki.", "contoh": "Dia memakai celana jeans."},
+  {"lema": "celup", "variasi": ["mencelup"], "definisi": "Memasukkan sesuatu ke dalam cairan.", "contoh": "Dia mencelupkan roti ke dalam susu."},
+  {"lema": "cemas", "variasi": ["khawatir"], "definisi": "Perasaan gelisah atau khawatir.", "contoh": "Dia merasa cemas menghadapi ujian."},
+  {"lema": "cemburu", "variasi": ["iri"], "definisi": "Perasaan tidak senang terhadap keunggulan orang lain.", "contoh": "Jangan cemburu pada kesuksesan teman."},
+  {"lema": "cemeti", "variasi": ["cambuk"], "definisi": "Alat untuk memukul yang terbuat dari kulit.", "contoh": "Cemeti digunakan untuk menggiring ternak."},
+  {"lema": "cendana", "variasi": [], "definisi": "Pohon yang kayunya harum dan digunakan untuk dupa.", "contoh": "Kayu cendana sangat berharga."},
+  {"lema": "cenderung", "variasi": ["kecenderungan"], "definisi": "Memiliki kecenderungan atau condong ke arah sesuatu.", "contoh": "Dia cenderung terlambat."},
+  {"lema": "cendikiawan", "variasi": ["intelektual"], "definisi": "Orang yang cerdas dan berpengetahuan.", "contoh": "Para cendikiawan berkumpul di seminar."},
+  {"lema": "cengeng", "variasi": ["mudah menangis"], "definisi": "Mudah menangis atau merengek.", "contoh": "Anak itu cengeng."},
+  {"lema": "cengkih", "variasi": ["rempah"], "definisi": "Bunga kering yang digunakan sebagai bumbu.", "contoh": "Cengkih sering digunakan dalam masakan."},
+  {"lema": "centang", "variasi": ["tanda cek"], "definisi": "Tanda yang menunjukkan bahwa sesuatu sudah diperiksa atau disetujui.", "contoh": "Beri centang pada kotak yang benar."},
+  {"lema": "cepat", "variasi": ["kencang"], "definisi": "Dengan kecepatan tinggi; tidak lambat.", "contoh": "Dia berlari cepat."},
+  {"lema": "cerah", "variasi": ["terang"], "definisi": "Bercahaya; tidak mendung.", "contoh": "Hari ini cuacanya cerah."},
+  {"lema": "ceramah", "variasi": ["pidato"], "definisi": "Pidato atau pengajaran yang disampaikan di depan umum.", "contoh": "Ceramah itu sangat inspiratif."},
+  {"lema": "cerdas", "variasi": ["pintar"], "definisi": "Mampu berpikir dengan cepat dan tepat.", "contoh": "Dia adalah anak yang cerdas."},
+  {"lema": "cerdik", "variasi": ["licik"], "definisi": "Pandai dan cerdas dalam bertindak.", "contoh": "Dia cerdik mengatasi masalah."},
+  {"lema": "cerita", "variasi": ["kisah"], "definisi": "Uraian tentang peristiwa atau kejadian.", "contoh": "Cerita rakyat sangat menarik."},
+  {"lema": "cermat", "variasi": ["teliti"], "definisi": "Hati-hati dan teliti dalam melakukan sesuatu.", "contoh": "Dia cermat dalam mengerjakan tugas."},
+  {"lema": "cermin", "variasi": ["kaca"], "definisi": "Alat yang terbuat dari kaca untuk melihat bayangan.", "contoh": "Dia bercermin sebelum pergi."},
+  {"lema": "cetak", "variasi": ["mencetak"], "definisi": "Membuat tulisan atau gambar dengan tekanan.", "contoh": "Dokumen itu dicetak di printer."},
+  {"lema": "cetus", "variasi": ["ide"], "definisi": "Gagasan atau ide yang muncul.", "contoh": "Cetusannya sangat brilian."},
+  {"lema": "cinta", "variasi": ["kasih"], "definisi": "Perasaan suka yang mendalam terhadap seseorang atau sesuatu.", "contoh": "Cinta ibu kepada anaknya tak terbatas."},
+  {"lema": "cium", "variasi": ["mencium"], "definisi": "Menempelkan bibir untuk menunjukkan sayang; juga berarti menangkap bau.", "contoh": "Dia mencium pipi ibunya."}
+]
+```
+
+D
+
+```json
+[
+  {"lema": "daag", "variasi": [], "definisi": "Seruan untuk menghentikan atau menahan sesuatu.", "contoh": "Daag! Jangan pergi dulu!"},
+  {"lema": "daerah", "variasi": ["wilayah"], "definisi": "Bagian dari suatu negara atau wilayah yang memiliki batas tertentu.", "contoh": "Daerah itu terkenal dengan keindahan alamnya."},
+  {"lema": "dagang", "variasi": ["berdagang"], "definisi": "Kegiatan jual beli barang atau jasa.", "contoh": "Dia berdagang di pasar."},
+  {"lema": "daging", "variasi": ["daging sapi"], "definisi": "Bagian tubuh hewan yang lunak dan dapat dimakan.", "contoh": "Daging sapi segar tersedia di pasar."},
+  {"lema": "dahaga", "variasi": ["haus"], "definisi": "Merasa haus atau keinginan kuat untuk minum.", "contoh": "Setelah berlari, dia sangat dahaga."},
+  {"lema": "dahulu", "variasi": ["dulu"], "definisi": "Waktu lampau; masa lalu.", "contoh": "Dahulu kala, ada seorang putri cantik."},
+  {"lema": "daki", "variasi": ["kotoran"], "definisi": "Kotoran yang menempel di kulit, terutama di lipatan tubuh.", "contoh": "Dia mengeluh karena daki di lehernya."},
+  {"lema": "dakwah", "variasi": ["pengajaran"], "definisi": "Kegiatan menyebarkan ajaran agama Islam.", "contoh": "Dia aktif dalam dakwah di kampungnya."},
+  {"lema": "dalam", "variasi": ["kedalaman"], "definisi": "Jauh ke bawah atau ke dalam; tidak dangkal.", "contoh": "Laut itu sangat dalam."},
+  {"lema": "dama", "variasi": [], "definisi": "Permainan papan yang mirip dengan catur, tetapi dengan aturan berbeda.", "contoh": "Mereka bermain dama di taman."},
+  {"lema": "damai", "variasi": ["tenang"], "definisi": "Keadaan tanpa konflik atau pertikaian; tenteram.", "contoh": "Kami hidup damai di desa."},
+  {"lema": "damping", "variasi": ["samping"], "definisi": "Berada di sisi atau samping; menyertai.", "contoh": "Dia duduk damping dengan temannya."},
+  {"lema": "dana", "variasi": ["uang"], "definisi": "Uang yang disediakan untuk suatu tujuan tertentu.", "contoh": "Dana untuk pembangunan itu sudah terkumpul."},
+  {"lema": "danau", "variasi": ["telaga"], "definisi": "Genangan air yang luas di daratan.", "contoh": "Danau Toba adalah danau terbesar di Indonesia."},
+  {"lema": "dandan", "variasi": ["berdandan"], "definisi": "Mempercantik diri dengan pakaian dan riasan.", "contoh": "Dia suka berdandan sebelum pergi."},
+  {"lema": "dangkal", "variasi": ["tidak dalam"], "definisi": "Tidak dalam; memiliki kedalaman yang kecil.", "contoh": "Sungai itu dangkal."},
+  {"lema": "dapur", "variasi": ["ruang masak"], "definisi": "Ruangan tempat memasak makanan.", "contoh": "Dapur itu bersih dan rapi."},
+  {"lema": "darah", "variasi": ["darah"], "definisi": "Cairan merah di dalam pembuluh darah yang membawa oksigen.", "contoh": "Darahnya mengalir deras."},
+  {"lema": "darat", "variasi": ["daratan"], "definisi": "Permukaan bumi yang tidak tergenang air; tanah.", "contoh": "Kapal itu bersandar di darat."},
+  {"lema": "dari", "variasi": ["daripada"], "definisi": "Kata depan yang menunjukkan asal atau sumber.", "contoh": "Saya datang dari Bandung."},
+  {"lema": "daripada", "variasi": ["dari"], "definisi": "Kata untuk menyatakan perbandingan.", "contoh": "Lebih baik berjalan daripada naik kendaraan."},
+  {"lema": "darma", "variasi": ["pengabdian"], "definisi": "Kewajiban atau pengabdian kepada agama, negara, atau orang tua.", "contoh": "Darma baktinya sangat mulia."},
+  {"lema": "dasar", "variasi": ["fundamental"], "definisi": "Bagian bawah yang menjadi landasan atau pondasi.", "contoh": "Rumah itu dibangun di atas dasar yang kuat."},
+  {"lema": "daun", "variasi": ["dedaunan"], "definisi": "Bagian tumbuhan yang biasanya berwarna hijau dan berfungsi untuk fotosintesis.", "contoh": "Daun itu gugur di musim kemarau."},
+  {"lema": "debat", "variasi": ["perdebatan"], "definisi": "Pertukaran pendapat antara dua pihak yang berbeda.", "contoh": "Debat itu sangat sengit."},
+  {"lema": "dedak", "variasi": ["ampas"], "definisi": "Ampas hasil penggilingan padi yang digunakan sebagai pakan ternak.", "contoh": "Dedak dicampur untuk makanan ayam."},
+  {"lema": "dedikasi", "variasi": ["pengabdian"], "definisi": "Pengabdian total pada suatu tujuan atau pekerjaan.", "contoh": "Dedikasinya terhadap pekerjaan sangat tinggi."},
+  {"lema": "dekat", "variasi": ["rapat"], "definisi": "Berada pada jarak yang tidak jauh; dekat.", "contoh": "Rumahnya dekat dengan sekolah."},
+  {"lema": "delapan", "variasi": ["8"], "definisi": "Angka 8; bilangan genap.", "contoh": "Dia memiliki delapan buku."},
+  {"lema": "delegasi", "variasi": ["perwakilan"], "definisi": "Kelompok orang yang ditunjuk untuk mewakili suatu organisasi.", "contoh": "Delegasi Indonesia tiba di konferensi."},
+  {"lema": "demam", "variasi": ["suhu badan tinggi"], "definisi": "Suhu tubuh yang lebih tinggi dari normal karena infeksi.", "contoh": "Dia demam tinggi."},
+  {"lema": "demikian", "variasi": ["begitu"], "definisi": "Seperti itu; seperti yang disebutkan sebelumnya.", "contoh": "Demikianlah cerita singkatnya."},
+  {"lema": "dengan", "variasi": ["bareng"], "definisi": "Kata depan untuk menyertakan alat atau cara.", "contoh": "Saya menulis dengan pensil."},
+  {"lema": "dengar", "variasi": ["mendengar"], "definisi": "Menangkap suara dengan telinga.", "contoh": "Saya mendengar suara burung."},
+  {"lema": "dengkur", "variasi": ["ngorok"], "definisi": "Suara keras yang keluar saat tidur karena pernapasan terganggu.", "contoh": "Dia tidur sambil mendengkur."},
+  {"lema": "depan", "variasi": ["hadapan"], "definisi": "Bagian yang berada di sisi muka atau awal; bukan belakang.", "contoh": "Dia duduk di depan kelas."},
+  {"lema": "deras", "variasi": ["kencang"], "definisi": "Mengalir dengan cepat dan kuat.", "contoh": "Hujan turun deras."},
+  {"lema": "derita", "variasi": ["penderitaan"], "definisi": "Kesengsaraan atau penderitaan yang berat.", "contoh": "Dia menanggung derita karena sakit."},
+  {"lema": "desa", "variasi": ["kampung"], "definisi": "Wilayah pedesaan yang relatif kecil dan terpencil.", "contoh": "Desa itu dikenal dengan keramahannya."},
+  {"lema": "detail", "variasi": ["rinci"], "definisi": "Bagian-bagian kecil yang merupakan rincian dari suatu keseluruhan.", "contoh": "Perhatikan detail gambar itu."},
+  {"lema": "detak", "variasi": ["denyut"], "definisi": "Suara atau getaran yang dihasilkan oleh detak jantung.", "contoh": "Detak jantungnya terasa cepat."},
+  {"lema": "diam", "variasi": ["tenang"], "definisi": "Tidak bersuara; tidak bergerak.", "contoh": "Dia diam tidak bicara."},
+  {"lema": "dibawah", "variasi": ["di bawah"], "definisi": "Di posisi yang lebih rendah atau di bagian bawah.", "contoh": "Buku itu terletak di bawah meja."},
+  {"lema": "didik", "variasi": ["mendidik"], "definisi": "Mengajar atau melatih seseorang agar berkembang.", "contoh": "Orang tua mendidik anak-anaknya."},
+  {"lema": "diet", "variasi": ["pola makan"], "definisi": "Pengaturan makanan untuk tujuan kesehatan atau penurunan berat badan.", "contoh": "Dia menjalani diet ketat."},
+  {"lema": "digdaya", "variasi": ["kuat"], "definisi": "Sangat kuat; tidak terkalahkan.", "contoh": "Raja itu digdaya di medan perang."},
+  {"lema": "dih", "variasi": ["partikel"], "definisi": "Partikel penegas dalam kalimat informal.", "contoh": "Ayo dih, jangan malas!"},
+  {"lema": "dikit", "variasi": ["sedikit"], "definisi": "Jumlah yang kecil; tidak banyak.", "contoh": "Hanya dikit makanan yang tersisa."},
+  {"lema": "dinding", "variasi": ["tembok"], "definisi": "Bagian vertikal yang membatasi ruangan atau bangunan.", "contoh": "Dinding rumah itu terbuat dari bata."},
+  {"lema": "dingin", "variasi": ["sejuk"], "definisi": "Suhu yang rendah; tidak hangat.", "contoh": "Udara pegunungan terasa dingin."},
+  {"lema": "diperlukan", "variasi": ["dibutuhkan"], "definisi": "Hal yang penting atau harus ada.", "contoh": "Kehadiran Anda diperlukan."},
+  {"lema": "diri", "variasi": ["sendiri"], "definisi": "Orang itu sendiri; pribadi.", "contoh": "Kenali dirimu sendiri."},
+  {"lema": "diskusi", "variasi": ["perbincangan"], "definisi": "Pertukaran pendapat untuk mencapai kesepakatan.", "contoh": "Diskusi itu berlangsung hangat."},
+  {"lema": "ditengah", "variasi": ["di tengah"], "definisi": "Berada di posisi pusat atau antara dua hal.", "contoh": "Dia berdiri di tengah ruangan."}
+]
+```
+
+---
+
