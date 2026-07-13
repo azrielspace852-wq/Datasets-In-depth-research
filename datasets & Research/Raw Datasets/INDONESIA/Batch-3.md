@@ -1834,3 +1834,149 @@ T
 ```
 
 ---
+
+BATCH 3 (LANJUTAN): BAHASA INDONESIA FORMAL — KOSAKATA TEKNIS, ILMIAH, & SERAPAN (U–Z)
+
+U
+
+```json
+[
+  {"lema": "ubah", "jenis": "Verba", "definisi": "Mengganti; mengubah; menjadikan lain.", "contoh": "Dia mengubah rencananya."},
+  {"lema": "ucap", "jenis": "Verba", "definisi": "Mengatakan; mengucapkan; mengungkapkan.", "contoh": "Dia mengucapkan terima kasih."},
+  {"lema": "udang", "jenis": "Nomina", "definisi": "Hewan laut kecil berkulit keras; udang.", "contoh": "Udang goreng sangat lezat."},
+  {"lema": "udara", "jenis": "Nomina", "definisi": "Lapisan gas yang mengelilingi bumi; atmosfer; udara.", "contoh": "Udara di pegunungan sangat segar."},
+  {"lema": "ufuk", "jenis": "Nomina", "definisi": "Batasan antara langit dan bumi di kejauhan; cakrawala.", "contoh": "Matahari terbit di ufuk timur."},
+  {"lema": "uji", "jenis": "Verba", "definisi": "Menguji; memeriksa; mengujikan.", "contoh": "Mereka menguji kualitas produk."},
+  {"lema": "ujian", "jenis": "Nomina", "definisi": "Tes atau evaluasi untuk mengetahui kemampuan; ujian.", "contoh": "Ujian itu diadakan setiap semester."},
+  {"lema": "ujung", "jenis": "Nomina", "definisi": "Bagian ujung atau paling tepi; ujung.", "contoh": "Ujung pensil itu tumpul."},
+  {"lema": "ukir", "jenis": "Verba", "definisi": "Mengukir; membuat hiasan dengan alat tajam; ukir.", "contoh": "Dia mengukir nama di pohon."},
+  {"lema": "ukuran", "jenis": "Nomina", "definisi": "Besaran atau dimensi; ukuran; patokan.", "contoh": "Ukuran sepatu itu tepat."},
+  {"lema": "ular", "jenis": "Nomina", "definisi": "Hewan melata yang tidak berkaki; ular.", "contoh": "Ular itu melingkar."},
+  {"lema": "ulang", "jenis": "Verba", "definisi": "Mengulang; mengulangi; kembali ke awal.", "contoh": "Dia mengulang pelajaran."},
+  {"lema": "ulat", "jenis": "Nomina", "definisi": "Larva serangga; ulat; cacing.", "contoh": "Ulat itu memakan daun."},
+  {"lema": "ulir", "jenis": "Nomina", "definisi": "Garis spiral pada sekrup; ulir.", "contoh": "Ulir sekrup itu aus."},
+  {"lema": "umum", "jenis": "Adjektiva", "definisi": "Bersifat universal atau meliputi semua; umum.", "contoh": "Pengetahuan umum itu penting."},
+  {"lema": "umur", "jenis": "Nomina", "definisi": "Usia; umur; lama hidup.", "contoh": "Berapa umurmu?"},
+  {"lema": "undang", "jenis": "Verba", "definisi": "Mengundang; memanggil; mengajak.", "contoh": "Dia mengundang saya ke pesta."},
+  {"lema": "unggas", "jenis": "Nomina", "definisi": "Burung peliharaan; unggas; ayam.", "contoh": "Unggas itu dikandangkan."},
+  {"lema": "ungu", "jenis": "Adjektiva", "definisi": "Warna campuran merah dan biru; ungu.", "contoh": "Baju itu berwarna ungu."},
+  {"lema": "unik", "jenis": "Adjektiva", "definisi": "Khas; tidak umum; istimewa; unik.", "contoh": "Desainnya sangat unik."},
+  {"lema": "universal", "jenis": "Adjektiva", "definisi": "Bersifat umum atau mencakup semua; universal.", "contoh": "Hak asasi manusia bersifat universal."},
+  {"lema": "untuk", "jenis": "Preposisi", "definisi": "Tujuan atau sasaran; untuk; bagi.", "contoh": "Ini untukmu."},
+  {"lema": "untung", "jenis": "Nomina", "definisi": "Keberuntungan; keuntungan; nasib baik.", "contoh": "Dia mendapat untung besar."},
+  {"lema": "upah", "jenis": "Nomina", "definisi": "Imbalan atau gaji atas pekerjaan; upah.", "contoh": "Upahnya dibayar setiap bulan."},
+  {"lema": "upaya", "jenis": "Nomina", "definisi": "Usaha atau tindakan; upaya.", "contoh": "Upaya itu tidak sia-sia."},
+  {"lema": "urban", "jenis": "Adjektiva", "definisi": "Berkaitan dengan kota; perkotaan; urban.", "contoh": "Urbanisasi terjadi pesat."},
+  {"lema": "urip", "jenis": "Verba", "definisi": "Hidup; dalam keadaan hidup (bahasa Jawa).", "contoh": "Urip itu anugerah."},
+  {"lema": "usaha", "jenis": "Nomina", "definisi": "Kegiatan atau bisnis; usaha; upaya.", "contoh": "Dia menjalankan usaha kecil."},
+  {"lema": "usia", "jenis": "Nomina", "definisi": "Umur; usia; lama hidup.", "contoh": "Usia lanjut membutuhkan perhatian khusus."},
+  {"lema": "usir", "jenis": "Verba", "definisi": "Mengusir; menghalau; mengeluarkan.", "contoh": "Dia mengusir kucing itu."},
+  {"lema": "usul", "jenis": "Nomina", "definisi": "Saran; pendapat; usul.", "contoh": "Usulannya diterima."},
+  {"lema": "usulan", "jenis": "Nomina", "definisi": "Saran atau pendapat yang diajukan; usulan.", "contoh": "Usulannya ditolak."},
+  {"lema": "utang", "jenis": "Nomina", "definisi": "Hutang; pinjaman yang harus dibayar.", "contoh": "Dia memiliki banyak utang."},
+  {"lema": "utama", "jenis": "Adjektiva", "definisi": "Paling penting; utama; nomor satu.", "contoh": "Tujuan utama itu jelas."},
+  {"lema": "utara", "jenis": "Nomina", "definisi": "Arah mata angin; utara.", "contoh": "Rumah itu menghadap ke utara."},
+  {"lema": "utuh", "jenis": "Adjektiva", "definisi": "Tidak rusak; utuh; sempurna.", "contoh": "Bangunan itu masih utuh."}
+]
+```
+
+V
+
+```json
+[
+  {"lema": "vaksin", "jenis": "Nomina", "definisi": "Zat yang diberikan untuk merangsang sistem kekebalan terhadap penyakit; vaksin.", "contoh": "Vaksin COVID-19 sangat penting."},
+  {"lema": "validasi", "jenis": "Nomina", "definisi": "Proses verifikasi atau pengesahan; validasi.", "contoh": "Validasi data itu dilakukan secara ketat."},
+  {"lema": "valuta", "jenis": "Nomina", "definisi": "Mata uang asing; valuta.", "contoh": "Valuta asing sangat penting dalam perdagangan."},
+  {"lema": "vandal", "jenis": "Nomina", "definisi": "Orang yang merusak barang publik; perusak.", "contoh": "Vandal itu ditangkap oleh polisi."},
+  {"lema": "vandalisme", "jenis": "Nomina", "definisi": "Tindakan merusak properti; vandalisme.", "contoh": "Vandalisme marak terjadi di kota besar."},
+  {"lema": "variabel", "jenis": "Nomina", "definisi": "Faktor yang dapat berubah; variabel.", "contoh": "Variabel dalam penelitian itu perlu dikontrol."},
+  {"lema": "variasi", "jenis": "Nomina", "definisi": "Perubahan atau perbedaan; variasi.", "contoh": "Ada banyak variasi warna."},
+  {"lema": "vegetasi", "jenis": "Nomina", "definisi": "Kehidupan tumbuhan; vegetasi.", "contoh": "Vegetasi tropis sangat lebat."},
+  {"lema": "vektor", "jenis": "Nomina", "definisi": "Pembawa penyakit; juga besaran fisika; vektor.", "contoh": "Nyamuk adalah vektor demam berdarah."},
+  {"lema": "ventilasi", "jenis": "Nomina", "definisi": "Sirkulasi udara; ventilasi.", "contoh": "Ventilasi ruangan itu baik."},
+  {"lema": "verba", "jenis": "Nomina", "definisi": "Kata kerja; verba.", "contoh": "Verba 'makan' termasuk kata kerja."},
+  {"lema": "verbal", "jenis": "Adjektiva", "definisi": "Berkaitan dengan kata-kata; lisan; verbal.", "contoh": "Komunikasi verbal penting."},
+  {"lema": "verifikasi", "jenis": "Nomina", "definisi": "Pemeriksaan untuk memastikan kebenaran; verifikasi.", "contoh": "Verifikasi data itu harus dilakukan."},
+  {"lema": "versi", "jenis": "Nomina", "definisi": "Edisi atau bentuk lain; versi.", "contoh": "Versi baru aplikasi itu dirilis."},
+  {"lema": "vertikal", "jenis": "Adjektiva", "definisi": "Tegak lurus; vertikal.", "contoh": "Pohon itu tumbuh vertikal."},
+  {"lema": "veteran", "jenis": "Nomina", "definisi": "Orang yang berpengalaman; veteran; pejuang.", "contoh": "Veteran perang itu dihormati."},
+  {"lema": "via", "jenis": "Preposisi", "definisi": "Melalui; lewat; via.", "contoh": "Dia pergi via jalur darat."},
+  {"lema": "vibrasi", "jenis": "Nomina", "definisi": "Getaran; vibrasi.", "contoh": "Vibrasi mesin itu terasa."},
+  {"lema": "video", "jenis": "Nomina", "definisi": "Rekaman gambar dan suara; video.", "contoh": "Video itu sangat menarik."},
+  {"lema": "vihara", "jenis": "Nomina", "definisi": "Tempat ibadah umat Buddha; vihara.", "contoh": "Vihara itu terletak di lereng gunung."},
+  {"lema": "vila", "jenis": "Nomina", "definisi": "Rumah mewah peristirahatan; vila.", "contoh": "Mereka berlibur di vila."},
+  {"lema": "viral", "jenis": "Adjektiva", "definisi": "Menyebar cepat di internet; viral.", "contoh": "Video itu viral di media sosial."},
+  {"lema": "virtual", "jenis": "Adjektiva", "definisi": "Maya; tidak nyata; virtual.", "contoh": "Pertemuan itu diadakan secara virtual."},
+  {"lema": "visa", "jenis": "Nomina", "definisi": "Izin masuk ke negara lain; visa.", "contoh": "Dia mengurus visa untuk perjalanan ke luar negeri."},
+  {"lema": "visi", "jenis": "Nomina", "definisi": "Pandangan atau tujuan jauh ke depan; visi.", "contoh": "Visi perusahaan itu jelas."},
+  {"lema": "visual", "jenis": "Adjektiva", "definisi": "Berkaitan dengan penglihatan; visual.", "contoh": "Seni visual sangat menarik."},
+  {"lema": "vital", "jenis": "Adjektiva", "definisi": "Sangat penting; vital.", "contoh": "Organ vital tubuh harus dijaga."},
+  {"lema": "vitamin", "jenis": "Nomina", "definisi": "Zat gizi yang diperlukan tubuh; vitamin.", "contoh": "Vitamin C penting untuk daya tahan tubuh."},
+  {"lema": "vokal", "jenis": "Adjektiva", "definisi": "Berkaitan dengan suara; juga huruf hidup; vokal.", "contoh": "Dia memiliki vokal yang merdu."},
+  {"lema": "volume", "jenis": "Nomina", "definisi": "Jumlah atau tingkat kenyaringan; volume.", "contoh": "Volume suara itu keras."},
+  {"lema": "volunter", "jenis": "Nomina", "definisi": "Sukarelawan; volunter.", "contoh": "Dia menjadi volunter di panti asuhan."}
+]
+```
+
+W
+
+```json
+[
+  {"lema": "wacana", "jenis": "Nomina", "definisi": "Pembicaraan atau diskusi; wacana.", "contoh": "Wacana pendidikan terus berkembang."},
+  {"lema": "wadah", "jenis": "Nomina", "definisi": "Tempat atau wadah untuk menyimpan; wadah.", "contoh": "Wadah air itu besar."},
+  {"lema": "wafat", "jenis": "Verba", "definisi": "Meninggal dunia; wafat.", "contoh": "Dia wafat pada usia 80 tahun."},
+  {"lema": "wahana", "jenis": "Nomina", "definisi": "Sarana atau alat; wahana.", "contoh": "Wahana hiburan itu menarik."},
+  {"lema": "wajar", "jenis": "Adjektiva", "definisi": "Sesuai dengan kenyataan; wajar; biasa.", "contoh": "Hal itu sangat wajar."},
+  {"lema": "wakaf", "jenis": "Nomina", "definisi": "Harta yang disumbangkan untuk kepentingan umum; wakaf.", "contoh": "Tanah itu diwakafkan untuk masjid."},
+  {"lema": "wakil", "jenis": "Nomina", "definisi": "Orang yang ditunjuk untuk mewakili; wakil.", "contoh": "Wakil itu menghadiri rapat."},
+  {"lema": "walet", "jenis": "Nomina", "definisi": "Burung yang membuat sarang dari air liur; walet.", "contoh": "Sarang walet sangat mahal."},
+  {"lema": "wali", "jenis": "Nomina", "definisi": "Penanggung jawab; wali; pengasuh.", "contoh": "Wali itu memberikan restu."},
+  {"lema": "wanita", "jenis": "Nomina", "definisi": "Perempuan; wanita.", "contoh": "Wanita itu sangat bijaksana."},
+  {"lema": "wangi", "jenis": "Adjektiva", "definisi": "Harum; wangi; sedap.", "contoh": "Bunga itu wangi sekali."},
+  {"lema": "warga", "jenis": "Nomina", "definisi": "Penduduk; warga; masyarakat.", "contoh": "Warga negara wajib membayar pajak."},
+  {"lema": "wartawan", "jenis": "Nomina", "definisi": "Jurnalis; wartawan; reporter.", "contoh": "Wartawan itu meliput peristiwa penting."},
+  {"lema": "wasit", "jenis": "Nomina", "definisi": "Hakim pertandingan; wasit.", "contoh": "Wasit itu adil."},
+  {"lema": "waspada", "jenis": "Adjektiva", "definisi": "Berhati-hati; waspada; siap siaga.", "contoh": "Kita harus waspada terhadap bencana."},
+  {"lema": "wawancara", "jenis": "Nomina", "definisi": "Percakapan tanya jawab; wawancara.", "contoh": "Wawancara itu berlangsung lancar."},
+  {"lema": "wayang", "jenis": "Nomina", "definisi": "Seni pertunjukan boneka; wayang.", "contoh": "Wayang kulit adalah warisan budaya."},
+  {"lema": "web", "jenis": "Nomina", "definisi": "Situs internet; web.", "contoh": "Web itu berisi informasi bermanfaat."},
+  {"lema": "website", "jenis": "Nomina", "definisi": "Situs web; website.", "contoh": "Website itu mudah diakses."},
+  {"lema": "widya", "jenis": "Nomina", "definisi": "Ilmu pengetahuan; widya.", "contoh": "Widya adalah sumber kebijaksanaan."},
+  {"lema": "wilayah", "jenis": "Nomina", "definisi": "Daerah; wilayah; zona.", "contoh": "Wilayah itu subur dan hijau."},
+  {"lema": "windu", "jenis": "Nomina", "definisi": "Delapan tahun; windu.", "contoh": "Windu itu berlalu dengan cepat."},
+  {"lema": "wirausaha", "jenis": "Nomina", "definisi": "Pengusaha; wirausaha.", "contoh": "Wirausaha itu berhasil."},
+  {"lema": "wisata", "jenis": "Nomina", "definisi": "Perjalanan rekreasi; wisata.", "contoh": "Wisata ke Bali sangat populer."},
+  {"lema": "wisma", "jenis": "Nomina", "definisi": "Rumah atau bangunan; wisma.", "contoh": "Wisma itu digunakan untuk penginapan."},
+  {"lema": "wortel", "jenis": "Nomina", "definisi": "Sayuran berwarna oranye; wortel.", "contoh": "Wortel itu segar."},
+  {"lema": "wujud", "jenis": "Nomina", "definisi": "Bentuk atau perwujudan; wujud.", "contoh": "Wujudnya tidak jelas."}
+]
+```
+
+X, Y, Z
+
+```json
+[
+  {"lema": "xenon", "jenis": "Nomina", "definisi": "Gas mulia yang digunakan dalam lampu; xenon.", "contoh": "Xenon digunakan dalam industri penerangan."},
+  {"lema": "xerofit", "jenis": "Nomina", "definisi": "Tumbuhan yang tahan kekeringan; xerofit.", "contoh": "Kaktus adalah contoh xerofit."},
+  {"lema": "xilem", "jenis": "Nomina", "definisi": "Jaringan pembuluh kayu; xilem.", "contoh": "Xilem berfungsi mengangkut air."},
+  {"lema": "xilofon", "jenis": "Nomina", "definisi": "Alat musik dari bilah kayu; xilofon.", "contoh": "Xilofon dimainkan dengan palu."},
+  {"lema": "yakni", "jenis": "Konjungsi", "definisi": "Yaitu; yakni; yaitu.", "contoh": "Dia lahir di dua kota, yakni Jakarta dan Bandung."},
+  {"lema": "yakin", "jenis": "Adjektiva", "definisi": "Percaya; yakin; pasti.", "contoh": "Saya yakin dia bisa."},
+  {"lema": "yatim", "jenis": "Nomina", "definisi": "Anak yang kehilangan ayah; yatim.", "contoh": "Anak yatim itu diasuh oleh pamannya."},
+  {"lema": "yayasan", "jenis": "Nomina", "definisi": "Lembaga atau perkumpulan; yayasan.", "contoh": "Yayasan itu membantu pendidikan."},
+  {"lema": "yoga", "jenis": "Nomina", "definisi": "Latihan fisik dan mental; yoga.", "contoh": "Yoga bermanfaat untuk kesehatan."},
+  {"lema": "yoghurt", "jenis": "Nomina", "definisi": "Makanan olahan susu; yoghurt.", "contoh": "Yoghurt itu segar."},
+  {"lema": "yuridis", "jenis": "Adjektiva", "definisi": "Berkaitan dengan hukum; yuridis.", "contoh": "Aspek yuridis dari kasus itu penting."},
+  {"lema": "yurisdiksi", "jenis": "Nomina", "definisi": "Kekuasaan peradilan; yurisdiksi.", "contoh": "Yurisdiksi pengadilan itu terbatas."},
+  {"lema": "zakat", "jenis": "Nomina", "definisi": "Kewajiban bagi umat Islam untuk menyisihkan harta; zakat.", "contoh": "Zakat fitrah dibayar sebelum Idul Fitri."},
+  {"lema": "zaman", "jenis": "Nomina", "definisi": "Periode waktu; zaman; masa.", "contoh": "Zaman dahulu, kehidupan lebih sederhana."},
+  {"lema": "zamrud", "jenis": "Nomina", "definisi": "Batu mulia berwarna hijau; zamrud.", "contoh": "Zamrud itu sangat berharga."},
+  {"lema": "zebra", "jenis": "Nomina", "definisi": "Hewan berkuku dengan garis hitam putih; zebra.", "contoh": "Zebra itu berlari cepat."},
+  {"lema": "zen", "jenis": "Nomina", "definisi": "Aliran dalam Buddhisme; zen; meditasi.", "contoh": "Zen mengajarkan ketenangan batin."},
+  {"lema": "zodiak", "jenis": "Nomina", "definisi": "Rasi bintang dalam astrologi; zodiak.", "contoh": "Zodiak saya adalah Aries."},
+  {"lema": "zona", "jenis": "Nomina", "definisi": "Daerah; zona; wilayah.", "contoh": "Zona itu bebas kendaraan."},
+  {"lema": "zuhur", "jenis": "Nomina", "definisi": "Waktu tengah hari; shalat Zuhur.", "contoh": "Shalat Zuhur dikerjakan setelah matahari tergelincir."}
+]
+```
+
+``` 
