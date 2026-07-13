@@ -549,3 +549,161 @@ F
 ```
 
 ---
+
+BATCH 1 (LANJUTAN): BAHASA INDONESIA FORMAL - HURUF G-I
+
+G
+
+```json
+[
+  {"lema": "gabah", "variasi": ["padi"], "definisi": "Butir padi yang masih berkulit dan belum digiling.", "contoh": "Petani menjual gabah ke penggilingan."},
+  {"lema": "gabar", "variasi": [], "definisi": "Gambaran atau bayangan tentang sesuatu.", "contoh": "Dia memberi gabar tentang kejadian itu."},
+  {"lema": "gabung", "variasi": ["bergabung"], "definisi": "Bersatu atau menjadi satu dengan yang lain.", "contoh": "Saya ingin bergabung dengan klub itu."},
+  {"lema": "gadai", "variasi": ["pegadaian"], "definisi": "Menyerahkan barang sebagai jaminan untuk pinjaman uang.", "contoh": "Dia menggadaikan perhiasannya."},
+  {"lema": "gadang", "variasi": ["besar"], "definisi": "Sangat besar; megah.", "contoh": "Rumah gadang adalah rumah adat Minangkabau."},
+  {"lema": "gadget", "variasi": ["perangkat"], "definisi": "Alat elektronik kecil yang canggih.", "contoh": "Gadget terbaru sangat populer."},
+  {"lema": "gadis", "variasi": ["anak perempuan"], "definisi": "Anak perempuan yang belum menikah.", "contoh": "Gadis itu pandai menyanyi."},
+  {"lema": "gaduh", "variasi": ["ribut"], "definisi": "Suasana yang ramai atau ribut.", "contoh": "Suasana di pasar sangat gaduh."},
+  {"lema": "gafur", "variasi": ["pemaaf"], "definisi": "Sangat pemaaf; suka memaafkan.", "contoh": "Allah adalah Yang Maha Gafur."},
+  {"lema": "gagah", "variasi": ["perkasa"], "definisi": "Berpenampilan kuat dan tegap.", "contoh": "Pria itu tampan dan gagah."},
+  {"lema": "gagal", "variasi": ["gagal"], "definisi": "Tidak berhasil; tidak mencapai tujuan.", "contoh": "Usahanya gagal tetapi dia tidak menyerah."},
+  {"lema": "gagang", "variasi": ["pegangan"], "definisi": "Bagian yang dipegang pada alat atau perkakas.", "contoh": "Gagang payung itu patah."},
+  {"lema": "gagas", "variasi": ["ide"], "definisi": "Gagasan atau ide yang muncul dalam pikiran.", "contoh": "Gagasannya sangat inovatif."},
+  {"lema": "gah", "variasi": ["megah"], "definisi": "Berpenampilan mewah dan angkuh.", "contoh": "Dia tampil dengan gaya gah."},
+  {"lema": "gairah", "variasi": ["semangat"], "definisi": "Semangat atau dorongan kuat untuk melakukan sesuatu.", "contoh": "Gairahnya dalam bekerja sangat tinggi."},
+  {"lema": "gajah", "variasi": [], "definisi": "Hewan mamalia besar dengan belalai dan gading.", "contoh": "Gajah adalah hewan yang cerdas."},
+  {"lema": "gaji", "variasi": ["upah"], "definisi": "Uang yang dibayarkan sebagai imbalan atas pekerjaan.", "contoh": "Gaji karyawan itu dibayar setiap bulan."},
+  {"lema": "gak", "variasi": ["tidak"], "definisi": "Bentuk informal dari 'tidak'.", "contoh": "Saya gak mau pergi."},
+  {"lema": "gala", "variasi": [], "definisi": "Pesta atau acara besar yang meriah.", "contoh": "Gala dinner itu dihadiri banyak tamu."},
+  {"lema": "galak", "variasi": ["buas"], "definisi": "Bersifat menakutkan atau agresif.", "contoh": "Anjing itu galak."},
+  {"lema": "galang", "variasi": ["pundak"], "definisi": "Bahagian atas bahu atau pundak.", "contoh": "Dia menggandeng bahu galang."},
+  {"lema": "galar", "variasi": ["tanda"], "definisi": "Tanda atau lencana yang menunjukkan pangkat.", "contoh": "Galar itu menunjukkan pangkatnya."},
+  {"lema": "galas", "variasi": ["alat", "tali"], "definisi": "Tali atau alat untuk menggantung sesuatu.", "contoh": "Galas itu digunakan untuk mengikat."},
+  {"lema": "galau", "variasi": ["cemas"], "definisi": "Perasaan cemas dan bingung; resah.", "contoh": "Dia galau memikirkan masa depannya."},
+  {"lema": "gali", "variasi": ["menggali"], "definisi": "Membuat lubang dengan alat seperti cangkul.", "contoh": "Mereka menggali tanah untuk menanam pohon."},
+  {"lema": "galon", "variasi": ["wadah"], "definisi": "Wadah berbentuk besar yang digunakan untuk menyimpan air.", "contoh": "Air minum itu dikemas dalam galon."},
+  {"lema": "gambar", "variasi": ["lukisan"], "definisi": "Lukisan, foto, atau ilustrasi yang menunjukkan bentuk visual.", "contoh": "Gambar itu sangat indah."},
+  {"lema": "game", "variasi": ["permainan"], "definisi": "Permainan yang dimainkan di komputer atau konsol.", "contoh": "Dia suka bermain game online."},
+  {"lema": "ganas", "variasi": ["buas"], "definisi": "Sangat buas dan berbahaya.", "contoh": "Hewan itu ganas."},
+  {"lema": "ganda", "variasi": ["dua"], "definisi": "Dua kali lipat; dobel.", "contoh": "Dia mendapat nilai ganda."},
+  {"lema": "ganggu", "variasi": ["mengganggu"], "definisi": "Mengacaukan atau mengusik kenyamanan.", "contoh": "Suara itu mengganggu konsentrasi."},
+  {"lema": "ganjil", "variasi": ["aneh"], "definisi": "Tidak biasa; aneh; juga bilangan ganjil (1,3,5).", "contoh": "Perilakunya agak ganjil."},
+  {"lema": "ganteng", "variasi": ["tampan"], "definisi": "Berpenampilan menarik bagi pria.", "contoh": "Dia adalah pria yang ganteng."},
+  {"lema": "gantung", "variasi": ["menggantung"], "definisi": "Menempelkan sesuatu pada kait sehingga tidak menyentuh permukaan.", "contoh": "Lukisan itu digantung di dinding."},
+  {"lema": "gapai", "variasi": ["meraih"], "definisi": "Menjangkau atau mengambil sesuatu dengan tangan.", "contoh": "Dia meraih tangan ibunya."},
+  {"lema": "garam", "variasi": ["bumbu"], "definisi": "Kristal putih yang digunakan sebagai bumbu masak.", "contoh": "Tambahkan sedikit garam ke dalam kuah."},
+  {"lema": "garda", "variasi": ["penjaga"], "definisi": "Penjaga atau pengawal yang bertugas melindungi.", "contoh": "Garda depan bertugas di perbatasan."},
+  {"lema": "garis", "variasi": ["coretan"], "definisi": "Tanda yang lurus atau melengkung yang dibuat di permukaan.", "contoh": "Garis itu menunjukkan batas tanah."},
+  {"lema": "garpu", "variasi": ["alat makan"], "definisi": "Alat makan yang memiliki gigi-gigi tajam.", "contoh": "Dia menggunakan garpu untuk makan."},
+  {"lema": "gas", "variasi": ["bahan bakar"], "definisi": "Zat yang tidak berbentuk padat atau cair, sering digunakan sebagai bahan bakar.", "contoh": "Gas elpiji digunakan untuk memasak."},
+  {"lema": "gatal", "variasi": ["geli"], "definisi": "Perasaan tidak nyaman pada kulit yang menimbulkan keinginan untuk menggaruk.", "contoh": "Tubuhnya terasa gatal."},
+  {"lema": "gawai", "variasi": ["peranti"], "definisi": "Alat atau perkakas; sering merujuk pada perangkat elektronik.", "contoh": "Gawai modern sangat memudahkan kehidupan."},
+  {"lema": "gaya", "variasi": ["model"], "definisi": "Cara atau model dalam bertindak atau berpakaian.", "contoh": "Gaya berpakaiannya sangat modis."},
+  {"lema": "gayung", "variasi": ["alat"], "definisi": "Alat untuk menimba atau mengambil air, terbuat dari kayu atau plastik.", "contoh": "Dia menggunakan gayung untuk mandi."},
+  {"lema": "gazebo", "variasi": ["paviliun"], "definisi": "Bangunan kecil yang berdiri sendiri di taman atau kebun.", "contoh": "Kami duduk di gazebo menikmati angin."},
+  {"lema": "gebyar", "variasi": ["gemerlap"], "definisi": "Gemerlap atau cahaya yang terang dan menyilaukan.", "contoh": "Pesta itu dihiasi dengan gebyar lampu."},
+  {"lema": "gejala", "variasi": ["tanda"], "definisi": "Tanda awal atau indikasi terjadinya sesuatu, biasanya penyakit.", "contoh": "Gejala flu adalah demam dan batuk."},
+  {"lema": "gel", "variasi": ["zat"], "definisi": "Zat setengah padat yang digunakan untuk menata rambut atau sebagai obat.", "contoh": "Dia menggunakan gel untuk menata rambutnya."},
+  {"lema": "gelang", "variasi": ["perhiasan"], "definisi": "Perhiasan yang melingkar di pergelangan tangan atau kaki.", "contoh": "Gelang emas itu sangat cantik."},
+  {"lema": "gelap", "variasi": ["pekat"], "definisi": "Keadaan tanpa cahaya; tidak terang.", "contoh": "Malam itu sangat gelap."},
+  {"lema": "gelar", "variasi": ["pingkat"], "definisi": "Pangkat atau kehormatan yang diberikan, juga acara pertunjukan.", "contoh": "Dia menerima gelar doktor."},
+  {"lema": "gelas", "variasi": ["cangkir"], "definisi": "Wadah untuk minum yang terbuat dari kaca atau plastik.", "contoh": "Air itu dituangkan ke dalam gelas."},
+  {"lema": "gelatik", "variasi": ["burung"], "definisi": "Burung kecil yang sering ditemukan di perkotaan.", "contoh": "Gelatik bertengger di ranting pohon."},
+  {"lema": "gelisah", "variasi": ["cemas"], "definisi": "Perasaan tidak tenang atau cemas.", "contoh": "Dia gelisah menunggu kabar."}
+]
+```
+
+H
+
+```json
+[
+  {"lema": "habib", "variasi": ["sayyid"], "definisi": "Gelar untuk keturunan Nabi Muhammad dari jalur Ali dan Fatimah.", "contoh": "Habib adalah tokoh yang dihormati."},
+  {"lema": "habis", "variasi": ["selesai"], "definisi": "Tidak tersisa; selesai; berakhir.", "contoh": "Makanan itu sudah habis."},
+  {"lema": "habitat", "variasi": ["tempat hidup"], "definisi": "Tempat alami bagi suatu organisme untuk hidup dan berkembang.", "contoh": "Habitat harimau adalah hutan tropis."},
+  {"lema": "hadapi", "variasi": ["menghadapi"], "definisi": "Menghadapi atau menantang situasi yang sulit.", "contoh": "Kita harus menghadapi masalah itu."},
+  {"lema": "hadiah", "variasi": ["kado"], "definisi": "Barang yang diberikan sebagai penghargaan atau tanda terima kasih.", "contoh": "Dia menerima hadiah pada ulang tahunnya."},
+  {"lema": "hadir", "variasi": ["tiba"], "definisi": "Datang atau berada di suatu tempat.", "contoh": "Semua undangan hadir di acara itu."},
+  {"lema": "hafal", "variasi": ["menghafal"], "definisi": "Ingat dengan tepat di luar kepala.", "contoh": "Dia hafal semua pelajaran."},
+  {"lema": "hah", "variasi": ["ekspresi tanya"], "definisi": "Ekspresi keheranan atau ketidakpahaman.", "contoh": "Hah? Apa katamu?"},
+  {"lema": "haji", "variasi": ["ibadah"], "definisi": "Ibadah ke Baitullah di Mekkah yang dilakukan pada bulan tertentu.", "contoh": "Dia berangkat haji tahun ini."},
+  {"lema": "hak", "variasi": ["kebenaran"], "definisi": "Kekuasaan atau kewenangan yang dimiliki seseorang secara hukum.", "contoh": "Hak asasi manusia harus dihormati."},
+  {"lema": "hal", "variasi": ["perkara"], "definisi": "Perkara atau urusan; sesuatu yang dibicarakan.", "contoh": "Hal itu perlu dibahas lebih lanjut."},
+  {"lema": "halaman", "variasi": ["pekarangan"], "definisi": "Bagian dari buku atau majalah; juga pekarangan rumah.", "contoh": "Halaman rumah itu luas."},
+  {"lema": "halau", "variasi": ["mengusir"], "definisi": "Mengusir atau menghalau binatang atau orang.", "contoh": "Dia menghalau burung-burung itu."},
+  {"lema": "halus", "variasi": ["lembut"], "definisi": "Bersifat lembut dan tidak kasar.", "contoh": "Kulitnya terasa halus."},
+  {"lema": "hamil", "variasi": ["mengandung"], "definisi": "Mengandung janin dalam rahim; berbadan dua.", "contoh": "Dia sedang hamil tujuh bulan."},
+  {"lema": "hampa", "variasi": ["kosong"], "definisi": "Tidak berisi; kosong; juga bisa berarti tidak berguna.", "contoh": "Harapannya terasa hampa."},
+  {"lema": "hancur", "variasi": ["rusak"], "definisi": "Rusak total; hancur lebur.", "contoh": "Bangunan itu hancur akibat gempa."},
+  {"lema": "hangat", "variasi": ["panas"], "definisi": "Suhu yang tidak terlalu dingin atau panas; bersahabat.", "contoh": "Selamat datang yang hangat."},
+  {"lema": "hanyut", "variasi": ["terbawa"], "definisi": "Terbawa aliran air; atau terseret dalam perasaan.", "contoh": "Pikirannya hanyut dalam lamunan."},
+  {"lema": "hapus", "variasi": ["menghapus"], "definisi": "Membuang atau menghilangkan sesuatu.", "contoh": "Hapus tulisan di papan tulis."},
+  {"lema": "harap", "variasi": ["berharap"], "definisi": "Berkeinginan atau berdoa agar sesuatu terjadi.", "contoh": "Saya berharap dia datang."},
+  {"lema": "hari", "variasi": ["sehari"], "definisi": "Satuan waktu dari pagi sampai malam; juga nama-nama hari.", "contoh": "Hari ini sangat cerah."},
+  {"lema": "harta", "variasi": ["kekayaan"], "definisi": "Segala sesuatu yang dimiliki dan berharga.", "contoh": "Harta benda itu dijual."},
+  {"lema": "harum", "variasi": ["wangi"], "definisi": "Berbau sedap atau wangi.", "contoh": "Bunga itu harum sekali."},
+  {"lema": "hati", "variasi": ["kalbu"], "definisi": "Organ dalam yang memompa darah; juga perasaan atau jiwa.", "contoh": "Hatinya gembira."},
+  {"lema": "haus", "variasi": ["dahaga"], "definisi": "Keinginan kuat untuk minum karena kekurangan cairan.", "contoh": "Saya sangat haus."},
+  {"lema": "hawa", "variasi": ["angin"], "definisi": "Angin atau udara; juga nafsu atau perasaan.", "contoh": "Hawa di pegunungan sangat sejuk."},
+  {"lema": "hayat", "variasi": ["kehidupan"], "definisi": "Kehidupan; masa hidup.", "contoh": "Semoga panjang hayatnya."},
+  {"lema": "hebat", "variasi": ["luar biasa"], "definisi": "Sangat baik atau kuat; luar biasa.", "contoh": "Pertandingan itu sangat hebat."},
+  {"lema": "hias", "variasi": ["menghias"], "definisi": "Memperindah atau mendekorasi.", "contoh": "Mereka menghias ruangan untuk pesta."},
+  {"lema": "hidung", "variasi": ["penciuman"], "definisi": "Bagian tubuh yang digunakan untuk bernapas dan mencium bau.", "contoh": "Hidungnya mancung."},
+  {"lema": "hidup", "variasi": ["kehidupan"], "definisi": "Berada dalam keadaan bernyawa; tidak mati.", "contoh": "Manusia hidup di bumi."},
+  {"lema": "hijau", "variasi": ["green"], "definisi": "Warna seperti dedaunan.", "contoh": "Daunnya berwarna hijau."},
+  {"lema": "hikmat", "variasi": ["kebijaksanaan"], "definisi": "Kebijaksanaan atau pengetahuan yang mendalam.", "contoh": "Dia berbicara dengan hikmat."},
+  {"lema": "hilang", "variasi": ["lenyap"], "definisi": "Tidak ada lagi; tidak ditemukan.", "contoh": "Dompetnya hilang."},
+  {"lema": "hina", "variasi": ["rendah"], "definisi": "Rendah derajatnya; tidak terhormat.", "contoh": "Perbuatan hina itu tidak boleh dilakukan."},
+  {"lema": "hujan", "variasi": ["curan"], "definisi": "Air yang jatuh dari langit dalam bentuk butiran.", "contoh": "Hujan turun deras."},
+  {"lema": "hukum", "variasi": ["undang-undang"], "definisi": "Peraturan yang dibuat oleh negara untuk mengatur masyarakat.", "contoh": "Setiap warga negara wajib menaati hukum."},
+  {"lema": "hulubalang", "variasi": ["panglima"], "definisi": "Panglima perang atau pemimpin pasukan.", "contoh": "Hulubalang itu gagah berani."},
+  {"lema": "hulu", "variasi": ["hulu sungai"], "definisi": "Bagian atas atau awal sungai; juga kepala.", "contoh": "Hulu sungai itu terletak di pegunungan."},
+  {"lema": "huma", "variasi": ["ladang"], "definisi": "Ladang atau sawah yang digarap untuk bercocok tanam.", "contoh": "Dia bekerja di huma."},
+  {"lema": "hurai", "variasi": ["mengurai"], "definisi": "Membuka atau melepaskan ikatan; menjelaskan secara detail.", "contoh": "Dia mengurai rambutnya."}
+]
+```
+
+I
+
+```json
+[
+  {"lema": "ibu", "variasi": ["bunda"], "definisi": "Wanita yang melahirkan atau merawat anak; panggilan untuk ibu.", "contoh": "Ibu saya seorang guru."},
+  {"lema": "ibukota", "variasi": ["kota pusat"], "definisi": "Kota utama negara yang menjadi pusat pemerintahan.", "contoh": "Jakarta adalah ibukota Indonesia."},
+  {"lema": "ibul", "variasi": ["alat"], "definisi": "Alat untuk membelah kayu atau batu.", "contoh": "Ibul itu digunakan untuk memotong kayu."},
+  {"lema": "ideal", "variasi": ["sempurna"], "definisi": "Sesuai dengan yang diharapkan atau diinginkan.", "contoh": "Cita-cita yang ideal harus diperjuangkan."},
+  {"lema": "ideologi", "variasi": ["keyakinan"], "definisi": "Sistem pemikiran atau keyakinan yang mendasari perilaku.", "contoh": "Ideologi Pancasila dijunjung tinggi."},
+  {"lema": "idola", "variasi": ["panutan"], "definisi": "Orang yang menjadi panutan atau yang dikagumi.", "contoh": "Dia adalah idola banyak orang."},
+  {"lema": "ifrit", "variasi": ["jin"], "definisi": "Jin yang kuat dan jahat dalam mitologi Islam.", "contoh": "Ifrit sering digambarkan sebagai makhluk api."},
+  {"lema": "ijazah", "variasi": ["sertifikat"], "definisi": "Sertifikat yang menunjukkan kelulusan pendidikan.", "contoh": "Ijazah itu sangat berharga."},
+  {"lema": "ijin", "variasi": ["izin"], "definisi": "Persetujuan atau izin untuk melakukan sesuatu.", "contoh": "Saya minta ijin untuk pergi."},
+  {"lema": "ikatan", "variasi": ["hubungan"], "definisi": "Hubungan atau ikatan yang kuat antara dua pihak.", "contoh": "Ikatan persaudaraan itu erat."},
+  {"lema": "ikhlas", "variasi": ["tulus"], "definisi": "Tulus dan tanpa pamrih.", "contoh": "Dia memberikan bantuan dengan ikhlas."},
+  {"lema": "ilmu", "variasi": ["pengetahuan"], "definisi": "Pengetahuan yang didapat melalui pembelajaran dan penelitian.", "contoh": "Ilmu pengetahuan sangat penting."},
+  {"lema": "ilmuwan", "variasi": ["peneliti"], "definisi": "Orang yang ahli dalam ilmu pengetahuan.", "contoh": "Ilmuwan itu melakukan penelitian."},
+  {"lema": "imajinasi", "variasi": ["khayalan"], "definisi": "Kemampuan membayangkan atau mengkhayalkan.", "contoh": "Imajinasi anak-anak sangat luas."},
+  {"lema": "iman", "variasi": ["kepercayaan"], "definisi": "Kepercayaan yang kuat kepada Tuhan dan ajaran-Nya.", "contoh": "Iman yang kuat akan menentramkan hati."},
+  {"lema": "imba", "variasi": ["panggilan"], "definisi": "Panggilan atau ajakan untuk melakukan sesuatu.", "contoh": "Imba itu datang dari kepala desa."},
+  {"lema": "imbas", "variasi": ["dampak"], "definisi": "Dampak atau pengaruh dari suatu tindakan.", "contoh": "Imbas kebijakan itu sangat luas."},
+  {"lema": "imej", "variasi": ["citra"], "definisi": "Citra atau gambaran yang dibentuk di benak orang.", "contoh": "Imej positif sangat penting."},
+  {"lema": "impak", "variasi": ["dampak"], "definisi": "Dampak atau pengaruh yang besar.", "contoh": "Impak peristiwa itu sangat besar."},
+  {"lema": "impor", "variasi": ["pemasukan"], "definisi": "Barang yang didatangkan dari luar negeri untuk dijual di dalam negeri.", "contoh": "Impor barang elektronik meningkat."},
+  {"lema": "imun", "variasi": ["kebal"], "definisi": "Tahan terhadap penyakit atau pengaruh tertentu.", "contoh": "Tubuhnya imun terhadap flu."},
+  {"lema": "inal", "variasi": ["tempat"], "definisi": "Tempat atau wadah untuk menyimpan sesuatu.", "contoh": "Inal itu digunakan untuk menyimpan air."},
+  {"lema": "incar", "variasi": ["mengincar"], "definisi": "Mengarahkan perhatian atau tujuan ke sesuatu.", "contoh": "Dia mengincar posisi itu."},
+  {"lema": "indah", "variasi": ["elok"], "definisi": "Sangat cantik atau mempesona.", "contoh": "Pemandangan itu sangat indah."},
+  {"lema": "Indonesia", "variasi": ["NKRI"], "definisi": "Negara kepulauan di Asia Tenggara.", "contoh": "Indonesia merdeka pada tahun 1945."},
+  {"lema": "industri", "variasi": ["perusahaan"], "definisi": "Kegiatan ekonomi yang menghasilkan barang atau jasa dalam skala besar.", "contoh": "Industri manufaktur berkembang pesat."},
+  {"lema": "ingat", "variasi": ["mengingat"], "definisi": "Mampu menyimpan dan memanggil kembali informasi.", "contoh": "Saya ingat wajahnya."},
+  {"lema": "ingin", "variasi": ["mau"], "definisi": "Mempunyai keinginan atau kehendak.", "contoh": "Saya ingin menjadi dokter."},
+  {"lema": "inisiatif", "variasi": ["prakarsa"], "definisi": "Langkah pertama yang diambil tanpa dorongan orang lain.", "contoh": "Inisiatifnya patut diapresiasi."},
+  {"lema": "injak", "variasi": ["menginjak"], "definisi": "Menekan atau meletakkan kaki di atas sesuatu.", "contoh": "Jangan injak rumput itu."},
+  {"lema": "insan", "variasi": ["manusia"], "definisi": "Manusia atau individu.", "contoh": "Insan itu adalah pahlawan tanpa tanda jasa."},
+  {"lema": "intai", "variasi": ["mengintai"], "definisi": "Mengamati dengan diam-diam.", "contoh": "Dia mengintai dari balik pintu."},
+  {"lema": "inti", "variasi": ["pokok"], "definisi": "Bagian terpenting atau pokok dari suatu hal.", "contoh": "Inti dari permasalahan itu adalah komunikasi."},
+  {"lema": "intip", "variasi": ["mengintip"], "definisi": "Melihat secara diam-diam melalui lubang atau sela.", "contoh": "Dia mengintip melalui lubang kunci."},
+  {"lema": "intuisi", "variasi": ["bisikan hati"], "definisi": "Kemampuan memahami sesuatu secara langsung tanpa analisis.", "contoh": "Intuisinya mengatakan bahwa dia tidak jujur."},
+  {"lema": "inul", "variasi": ["tarian"], "definisi": "Tarian tradisional dari daerah tertentu, biasanya yang menggoyangkan pinggul.", "contoh": "Tarian inul semakin populer."},
+  {"lema": "injak", "variasi": ["melangkah"], "definisi": "Langkah atau gerakan kaki.", "contoh": "Injakanku perlahan menuju tujuan."}
+]
+```
+
+---
