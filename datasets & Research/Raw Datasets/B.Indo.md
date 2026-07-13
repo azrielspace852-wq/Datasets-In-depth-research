@@ -9,6 +9,7 @@ Saya bagi menjadi beberapa sub-kategori agar terstruktur:
 A. KATA BENDA (Nomina)
 
 ```json
+
 [
   {"lema": "air", "variasi": [], "definisi": "Cairan jernih tidak berwarna, tidak berasa, dan tidak berbau yang diperlukan bagi kehidupan manusia, hewan, dan tumbuhan.", "contoh": "Air sungai itu jernih."},
   {"lema": "api", "variasi": [], "definisi": "Panas dan cahaya yang timbul dari pembakaran bahan bakar.", "contoh": "Api unggun menyala terang."},
@@ -164,12 +165,6 @@ F. ISTILAH UMUM (Kata Benda Tambahan)
   {"lema": "bulan", "variasi": ["rembulan"], "definisi": "Satelit alami bumi.", "contoh": "Bulan purnama sangat indah."}
 ]
 ```
-
----
-
-Baik! Saya setuju. Bahasa Indonesia formal harus tuntas sampai benar-benar selesai, mulai dari A sampai Z. Saya akan lanjutkan dari kosakata yang sudah ada dan terus menambah hingga mencakup semua kata dasar, kata turunan, istilah ilmiah, hukum, teknologi, dan kata serapan yang umum digunakan.
-
-Saya akan lanjutkan dari huruf A sampai Z secara bertahap. Berikut lanjutan Batch 1 (Bahasa Indonesia Formal) dari huruf A sampai C. Setelah ini, saya akan lanjut ke huruf berikutnya.
 
 ---
 
