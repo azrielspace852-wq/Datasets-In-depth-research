@@ -1,6 +1,6 @@
 ```markdown```
 
-#json
+```json
 
 [
   {"lema": "aduh", "jenis": "Interjeksi", "definisi": "Ungkapan rasa sakit, kaget, atau keluhan ringan dalam percakapan informal; aduh.", "contoh": "Aduh, kakiku kesandung batu."},
