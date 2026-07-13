@@ -1770,3 +1770,176 @@ U
 ```
 
 ---
+
+BATCH 1 (LANJUTAN): BAHASA INDONESIA FORMAL - HURUF V-Z
+
+V
+
+```json
+[
+  {"lema": "vak", "variasi": ["jurusan"], "definisi": "Jurusan atau bidang keahlian tertentu, terutama dalam pendidikan.", "contoh": "Dia memilih vak ekonomi."},
+  {"lema": "valid", "variasi": ["sah"], "definisi": "Sah atau berlaku; dapat diterima secara logis atau hukum.", "contoh": "Alasan itu valid."},
+  {"lema": "valuta", "variasi": ["mata uang"], "definisi": "Mata uang asing yang digunakan dalam perdagangan internasional.", "contoh": "Nilai valuta asing terus berfluktuasi."},
+  {"lema": "vandalisme", "variasi": ["perusakan"], "definisi": "Tindakan merusak properti atau fasilitas umum.", "contoh": "Vandalisme marak terjadi di kota besar."},
+  {"lema": "variabel", "variasi": ["ubah"], "definisi": "Hal yang dapat berubah atau bervariasi; unsur yang tidak tetap.", "contoh": "Variabel dalam penelitian itu perlu dikontrol."},
+  {"lema": "variasi", "variasi": ["ragam"], "definisi": "Perubahan atau perbedaan dalam suatu kelompok; ragam.", "contoh": "Ada banyak variasi warna."},
+  {"lema": "vas", "variasi": ["tempat"], "definisi": "Tempat atau wadah untuk menaruh bunga; bejana.", "contoh": "Vas bunga itu indah."},
+  {"lema": "vegetasi", "variasi": ["tumbuhan"], "definisi": "Kehidupan tumbuhan di suatu daerah; flora.", "contoh": "Vegetasi tropis sangat lebat."},
+  {"lema": "vektor", "variasi": ["pembawa"], "definisi": "Benda atau organisme yang membawa penyakit; juga besaran fisika.", "contoh": "Nyamuk adalah vektor demam berdarah."},
+  {"lema": "velvet", "variasi": ["beludru"], "definisi": "Kain yang lembut dan halus, terbuat dari sutra atau katun.", "contoh": "Baju itu terbuat dari velvet."},
+  {"lema": "vendor", "variasi": ["penjual"], "definisi": "Orang atau perusahaan yang menjual produk atau jasa.", "contoh": "Vendor itu menyediakan bahan baku."},
+  {"lema": "ventilasi", "variasi": ["sirkulasi"], "definisi": "Pertukaran udara dalam ruang; sistem pernapasan.", "contoh": "Ventilasi ruangan itu baik."},
+  {"lema": "verba", "variasi": ["kata kerja"], "definisi": "Kata yang menunjukkan tindakan atau keadaan; kata kerja.", "contoh": "Verba 'makan' termasuk kata kerja."},
+  {"lema": "verbal", "variasi": ["lisan"], "definisi": "Berkaitan dengan kata-kata atau lisan; bukan tulisan.", "contoh": "Komunikasi verbal penting."},
+  {"lema": "verifikasi", "variasi": ["pemeriksaan"], "definisi": "Pemeriksaan atau pengecekan untuk memastikan kebenaran.", "contoh": "Verifikasi data itu harus dilakukan."},
+  {"lema": "versi", "variasi": ["edisi"], "definisi": "Edisi atau bentuk berbeda dari suatu karya.", "contoh": "Versi baru aplikasi itu dirilis."},
+  {"lema": "vertikal", "variasi": ["tegak"], "definisi": "Berdiri tegak lurus terhadap permukaan; menuju ke atas.", "contoh": "Pohon itu tumbuh vertikal."},
+  {"lema": "veteran", "variasi": ["pejuang"], "definisi": "Orang yang pernah berjuang di medan perang atau berpengalaman dalam bidang tertentu.", "contoh": "Veteran perang itu dihormati."},
+  {"lema": "via", "variasi": ["melalui"], "definisi": "Melalui; lewat; dengan perantaraan.", "contoh": "Dia pergi via jalur darat."},
+  {"lema": "vibrasi", "variasi": ["getaran"], "definisi": "Getaran atau gerakan bolak-balik yang cepat.", "contoh": "Vibrasi mesin itu terasa."},
+  {"lema": "video", "variasi": ["rekaman"], "definisi": "Rekaman gambar dan suara; tayangan visual.", "contoh": "Video itu sangat menarik."},
+  {"lema": "vihara", "variasi": ["kuil"], "definisi": "Tempat ibadah umat Buddha.", "contoh": "Vihara itu terletak di lereng gunung."},
+  {"lema": "vijzel", "variasi": ["alat"], "definisi": "Alat untuk menumbuk atau menggiling sesuatu; lesung.", "contoh": "Vijzel itu digunakan untuk menumbuk rempah."},
+  {"lema": "vila", "variasi": ["rumah peristirahatan"], "definisi": "Rumah mewah yang digunakan sebagai tempat peristirahatan.", "contoh": "Mereka berlibur di vila."},
+  {"lema": "viral", "variasi": ["mendunia"], "definisi": "Menyebar dengan cepat di internet; menjadi terkenal.", "contoh": "Video itu viral di media sosial."},
+  {"lema": "virgo", "variasi": [], "definisi": "Zodiak untuk orang yang lahir antara 23 Agustus-22 September.", "contoh": "Dia berzodiak Virgo."},
+  {"lema": "virtual", "variasi": ["maya"], "definisi": "Tidak nyata; hanya dalam dunia maya; maya.", "contoh": "Pertemuan itu diadakan secara virtual."},
+  {"lema": "visa", "variasi": ["izin"], "definisi": "Izin masuk ke suatu negara yang diberikan oleh otoritas imigrasi.", "contoh": "Dia mengurus visa untuk perjalanan ke luar negeri."},
+  {"lema": "visi", "variasi": ["pandangan"], "definisi": "Pandangan atau tujuan jauh ke depan; cita-cita.", "contoh": "Visi perusahaan itu jelas."},
+  {"lema": "visit", "variasi": ["kunjungan"], "definisi": "Kunjungan atau kunjungan singkat ke suatu tempat.", "contoh": "Visit ke rumah sakit itu penting."},
+  {"lema": "visual", "variasi": ["tampak"], "definisi": "Berkaitan dengan penglihatan atau gambar; dapat dilihat.", "contoh": "Seni visual sangat menarik."},
+  {"lema": "vital", "variasi": ["penting"], "definisi": "Sangat penting atau esensial; vital.", "contoh": "Organ vital tubuh harus dijaga."},
+  {"lema": "vitamin", "variasi": ["nutrisi"], "definisi": "Zat gizi yang diperlukan tubuh untuk fungsi normal.", "contoh": "Vitamin C penting untuk daya tahan tubuh."},
+  {"lema": "vivipar", "variasi": ["beranak"], "definisi": "Hewan yang melahirkan anak, bukan bertelur.", "contoh": "Manusia adalah vivipar."},
+  {"lema": "vodka", "variasi": ["minuman"], "definisi": "Minuman beralkohol yang berasal dari Rusia.", "contoh": "Vodka memiliki kadar alkohol tinggi."},
+  {"lema": "vokal", "variasi": ["suara"], "definisi": "Berkaitan dengan suara atau nyanyian; juga huruf hidup.", "contoh": "Dia memiliki vokal yang merdu."},
+  {"lema": "voli", "variasi": ["bola"], "definisi": "Olahraga bola yang dimainkan dengan memukul bola di atas net.", "contoh": "Voli adalah olahraga yang populer."},
+  {"lema": "volume", "variasi": ["banyak"], "definisi": "Jumlah atau tingkat kenyaringan suara; isi.", "contoh": "Volume suara itu keras."},
+  {"lema": "volunter", "variasi": ["sukarelawan"], "definisi": "Orang yang bekerja secara sukarela tanpa bayaran.", "contoh": "Dia menjadi volunter di panti asuhan."},
+  {"lema": "vomit", "variasi": ["muntah"], "definisi": "Muntah; mengeluarkan isi perut melalui mulut.", "contoh": "Dia vomit setelah makan."},
+  {"lema": "voucher", "variasi": ["kupon"], "definisi": "Kupon atau tiket yang dapat ditukar dengan barang atau jasa.", "contoh": "Voucher itu berlaku selama sebulan."},
+  {"lema": "vulkanisir", "variasi": ["ban"], "definisi": "Proses memperbaiki ban dengan menambal dan memanaskan.", "contoh": "Toko itu melayani vulkanisir ban."}
+]
+```
+
+W
+
+```json
+[
+  {"lema": "wacana", "variasi": ["pembicaraan"], "definisi": "Pembicaraan atau diskusi tentang suatu topik; wacana.", "contoh": "Wacana pendidikan terus berkembang."},
+  {"lema": "wadah", "variasi": ["tempat"], "definisi": "Tempat atau wadah untuk menyimpan sesuatu.", "contoh": "Wadah air itu besar."},
+  {"lema": "wafat", "variasi": ["meninggal"], "definisi": "Meninggal dunia; wafat.", "contoh": "Dia wafat pada usia 80 tahun."},
+  {"lema": "wah", "variasi": ["ekspresi"], "definisi": "Ekspresi keheranan atau kekaguman; wah.", "contoh": "Wah, hebat sekali!"},
+  {"lema": "wahana", "variasi": ["sarana"], "definisi": "Sarana atau alat untuk mencapai tujuan; wahana.", "contoh": "Wahana hiburan itu menarik."},
+  {"lema": "wajar", "variasi": ["biasa"], "definisi": "Sesuai dengan kenyataan; biasa; tidak aneh.", "contoh": "Hal itu sangat wajar."},
+  {"lema": "wakaf", "variasi": ["donasi"], "definisi": "Harta yang disumbangkan untuk kepentingan umum dalam Islam.", "contoh": "Tanah itu diwakafkan untuk masjid."},
+  {"lema": "wakil", "variasi": ["perwakilan"], "definisi": "Orang yang ditunjuk untuk mewakili orang atau kelompok lain.", "contoh": "Wakil itu menghadiri rapat."},
+  {"lema": "walau", "variasi": ["meskipun"], "definisi": "Meskipun; kata hubung untuk menyatakan konsesi.", "contoh": "Walau hujan, saya tetap pergi."},
+  {"lema": "walet", "variasi": ["burung"], "definisi": "Burung yang membuat sarang dari air liur; burung walet.", "contoh": "Sarang walet sangat mahal."},
+  {"lema": "wali", "variasi": ["penanggung jawab"], "definisi": "Orang yang bertanggung jawab atas orang lain, terutama dalam pernikahan.", "contoh": "Wali itu memberikan restu."},
+  {"lema": "wallahi", "variasi": ["sumpah"], "definisi": "Sumpah atas nama Allah; wallahi.", "contoh": "Wallahi, saya tidak berbohong."},
+  {"lema": "waluh", "variasi": ["labu"], "definisi": "Buah labu kuning yang sering digunakan dalam masakan.", "contoh": "Waluh itu segar."},
+  {"lema": "wanita", "variasi": ["perempuan"], "definisi": "Manusia berjenis kelamin betina; perempuan.", "contoh": "Wanita itu sangat bijaksana."},
+  {"lema": "wangi", "variasi": ["harum"], "definisi": "Berbau sedap; harum; wangi.", "contoh": "Bunga itu wangi sekali."},
+  {"lema": "warga", "variasi": ["masyarakat"], "definisi": "Anggota masyarakat atau negara; warga.", "contoh": "Warga negara wajib membayar pajak."},
+  {"lema": "warta", "variasi": ["berita"], "definisi": "Berita atau informasi; wartawan.", "contoh": "Warta itu disebarluaskan."},
+  {"lema": "wartawan", "variasi": ["jurnalis"], "definisi": "Orang yang bekerja sebagai jurnalis atau peliput berita.", "contoh": "Wartawan itu meliput peristiwa penting."},
+  {"lema": "was-was", "variasi": ["cemas"], "definisi": "Perasaan cemas dan khawatir; was-was.", "contoh": "Dia was-was menunggu kabar."},
+  {"lema": "wasana", "variasi": ["akhir"], "definisi": "Akhir atau penutup; wasana.", "contoh": "Wasana dari cerita itu sangat mengharukan."},
+  {"lema": "wasit", "variasi": ["hakim"], "definisi": "Orang yang memimpin pertandingan olahraga; wasit.", "contoh": "Wasit itu adil."},
+  {"lema": "waskita", "variasi": ["bijaksana"], "definisi": "Bijaksana dan berpengetahuan luas; waskita.", "contoh": "Dia terkenal sebagai waskita."},
+  {"lema": "waspada", "variasi": ["waspada"], "definisi": "Berhati-hati; waspada; siap siaga.", "contoh": "Kita harus waspada terhadap bencana."},
+  {"lema": "watu", "variasi": ["batu"], "definisi": "Batu; juga sering digunakan dalam nama-nama tradisional.", "contoh": "Watu itu digunakan untuk bangunan."},
+  {"lema": "wawancara", "variasi": ["interview"], "definisi": "Percakapan tanya jawab antara pewawancara dan narasumber.", "contoh": "Wawancara itu berlangsung lancar."},
+  {"lema": "wayang", "variasi": ["boneka"], "definisi": "Seni pertunjukan tradisional dengan menggunakan boneka atau gambar.", "contoh": "Wayang kulit adalah warisan budaya."},
+  {"lema": "web", "variasi": ["internet"], "definisi": "Sistem yang menghubungkan dokumen-dokumen di internet; situs web.", "contoh": "Web itu berisi informasi bermanfaat."},
+  {"lema": "website", "variasi": ["situs"], "definisi": "Kumpulan halaman yang saling berhubungan di internet.", "contoh": "Website itu mudah diakses."},
+  {"lema": "wedang", "variasi": ["minuman"], "definisi": "Minuman hangat atau biasa; wedang.", "contoh": "Wedang jahe sangat menghangatkan."},
+  {"lema": "weton", "variasi": ["hari"], "definisi": "Hari kelahiran dalam perhitungan Jawa; weton.", "contoh": "Wetonnya dirayakan setiap tahun."},
+  {"lema": "wicara", "variasi": ["bicara"], "definisi": "Bicara; berbicara; wicara.", "contoh": "Dia memiliki kemampuan wicara yang baik."},
+  {"lema": "widya", "variasi": ["ilmu"], "definisi": "Ilmu pengetahuan; pengetahun; widya.", "contoh": "Widya adalah sumber kebijaksanaan."},
+  {"lema": "wihara", "variasi": ["vihara"], "definisi": "Tempat ibadah umat Buddha; vihara.", "contoh": "Wihara itu terletak di lereng gunung."},
+  {"lema": "wijen", "variasi": ["biji"], "definisi": "Tanaman yang bijinya digunakan sebagai bumbu dan bahan makanan.", "contoh": "Wijen sering digunakan dalam roti."},
+  {"lema": "wilayah", "variasi": ["daerah"], "definisi": "Daerah atau zona; wilayah.", "contoh": "Wilayah itu subur dan hijau."},
+  {"lema": "wilis", "variasi": ["hitam"], "definisi": "Hitam (dalam bahasa Jawa); sering digunakan dalam nama.", "contoh": "Rambutnya wilis."},
+  {"lema": "windu", "variasi": ["delapan"], "definisi": "Delapan tahun; jangka waktu delapan tahun.", "contoh": "Windu itu berlalu dengan cepat."},
+  {"lema": "wingit", "variasi": ["angker"], "definisi": "Angker atau menyeramkan; wingit.", "contoh": "Tempat itu terasa wingit."},
+  {"lema": "wira", "variasi": ["pahlawan"], "definisi": "Pahlawan atau orang gagah berani; wira.", "contoh": "Dia adalah wira bangsa."},
+  {"lema": "wirausaha", "variasi": ["pengusaha"], "definisi": "Orang yang memulai dan menjalankan usaha; pengusaha.", "contoh": "Wirausaha itu berhasil."},
+  {"lema": "wisata", "variasi": ["tour"], "definisi": "Perjalanan untuk rekreasi; pariwisata; wisata.", "contoh": "Wisata ke Bali sangat populer."},
+  {"lema": "wiskunda", "variasi": ["whiskey"], "definisi": "Minuman beralkohol; wiski.", "contoh": "Wiskunda itu diminum hangat."},
+  {"lema": "wisma", "variasi": ["rumah"], "definisi": "Rumah atau bangunan yang digunakan sebagai tempat tinggal atau kantor.", "contoh": "Wisma itu digunakan untuk penginapan."},
+  {"lema": "wita", "variasi": ["masa"], "definisi": "Masa atau waktu; juga bagian dari nama."},
+  {"lema": "witan", "variasi": ["dunia"], "definisi": "Dunia; alam; juga nama untuk bagian dari alam.", "contoh": "Witan itu penuh keindahan."},
+  {"lema": "wong", "variasi": ["orang"], "definisi": "Orang (dalam bahasa Jawa).", "contoh": "Wong Jawa itu ramah."},
+  {"lema": "wortel", "variasi": ["wortel"], "definisi": "Sayuran berwarna oranye yang mengandung vitamin A.", "contoh": "Wortel itu segar."},
+  {"lema": "wujud", "variasi": ["bentuk"], "definisi": "Bentuk atau perwujudan; keberadaan; wujud.", "contoh": "Wujudnya tidak jelas."},
+  {"lema": "wulan", "variasi": ["bulan"], "definisi": "Bulan (dalam bahasa Jawa); sering digunakan sebagai nama.", "contoh": "Wulan itu cerah."},
+  {"lema": "wulang", "variasi": ["ajar"], "definisi": "Ajar atau pelajaran; wulang.", "contoh": "Wulang itu penting untuk diketahui."},
+  {"lema": "wungu", "variasi": ["ungu"], "definisi": "Warna ungu; wungu.", "contoh": "Bunga itu berwarna wungu."},
+  {"lema": "wus", "variasi": ["sudah"], "definisi": "Sudah; telah; wus.", "contoh": "Wus selesai pekerjaan itu."}
+]
+```
+
+X
+
+```json
+[
+  {"lema": "xenon", "variasi": ["gas"], "definisi": "Gas mulia yang tidak berwarna dan tidak berbau, digunakan dalam lampu.", "contoh": "Xenon digunakan dalam industri penerangan."},
+  {"lema": "xerox", "variasi": ["fotokopi"], "definisi": "Mesin untuk menyalin dokumen; juga hasil salinan.", "contoh": "Dia memfotokopi dokumen itu dengan mesin xerox."},
+  {"lema": "xilem", "variasi": ["jaringan"], "definisi": "Jaringan pembuluh kayu pada tumbuhan untuk mengangkut air dan mineral.", "contoh": "Xilem berfungsi sebagai pembuluh air."},
+  {"lema": "xilograf", "variasi": ["cetakan"], "definisi": "Seni cetak dengan menggunakan ukiran kayu; juga hasil cetakannya.", "contoh": "Xilograf adalah salah satu teknik cetak tertua."},
+  {"lema": "xilofon", "variasi": ["alat musik"], "definisi": "Alat musik yang terbuat dari bilah kayu yang dipukul.", "contoh": "Xilofon dimainkan dengan palu."}
+]
+```
+
+Y
+
+```json
+[
+  {"lema": "yakin", "variasi": ["percaya"], "definisi": "Percaya atau yakin; pasti; tidak ragu.", "contoh": "Saya yakin dia bisa."},
+  {"lema": "yam", "variasi": ["ubi"], "definisi": "Ubi besar yang bisa dimakan; yam.", "contoh": "Yam adalah makanan pokok di beberapa daerah."},
+  {"lema": "yantra", "variasi": ["diagram"], "definisi": "Diagram atau simbol mistis dalam tradisi Hindu-Buddha.", "contoh": "Yantra digunakan dalam meditasi."},
+  {"lema": "yasti", "variasi": ["tiang"], "definisi": "Tiang atau batang; yasti.", "contoh": "Yasti itu digunakan sebagai penopang."},
+  {"lema": "yatim", "variasi": ["piatu"], "definisi": "Anak yang kehilangan ayah atau ibu, atau keduanya.", "contoh": "Anak yatim itu diasuh oleh pamannya."},
+  {"lema": "yayasan", "variasi": ["lembaga"], "definisi": "Lembaga atau perkumpulan yang didirikan untuk tujuan sosial.", "contoh": "Yayasan itu membantu pendidikan."},
+  {"lema": "ya", "variasi": ["iya"], "definisi": "Kata untuk menyatakan persetujuan; iya; ya.", "contoh": "Ya, saya setuju."},
+  {"lema": "yoga", "variasi": ["senam"], "definisi": "Senam atau latihan fisik dan mental yang berasal dari India.", "contoh": "Yoga bermanfaat untuk kesehatan."},
+  {"lema": "yoghurt", "variasi": ["susu"], "definisi": "Makanan olahan susu yang difermentasi.", "contoh": "Yoghurt itu segar."},
+  {"lema": "yolanda", "variasi": ["nama"], "definisi": "Nama panggilan untuk wanita; juga nama bunga.", "contoh": "Yolanda adalah nama yang indah."},
+  {"lema": "yono", "variasi": ["nama"], "definisi": "Nama laki-laki dalam bahasa Jawa; juga berarti baik.", "contoh": "Yono adalah teman baik saya."},
+  {"lema": "yu", "variasi": ["kakak"], "definisi": "Panggilan untuk kakak perempuan atau wanita yang lebih tua (dialek Jawa).", "contoh": "Yu, mau ke mana?"},
+  {"lema": "yudha", "variasi": ["perang"], "definisi": "Perang atau pertempuran; juga nama.", "contoh": "Yudha itu berlangsung lama."},
+  {"lema": "yuk", "variasi": ["ajakan"], "definisi": "Kata ajakan; ayo; yuk.", "contoh": "Yuk, kita pergi!"},
+  {"lema": "yuridis", "variasi": ["hukum"], "definisi": "Berkaitan dengan hukum; secara hukum.", "contoh": "Aspek yuridis dari kasus itu harus diperhatikan."},
+  {"lema": "yuris", "variasi": ["pakar hukum"], "definisi": "Orang yang ahli dalam bidang hukum; pakar hukum.", "contoh": "Yuris itu memberikan nasihat hukum."},
+  {"lema": "yurisdiksi", "variasi": ["kekuasaan"], "definisi": "Kekuasaan atau wewenang suatu lembaga untuk mengadili.", "contoh": "Yurisdiksi pengadilan itu terbatas."},
+  {"lema": "yustisi", "variasi": ["keadilan"], "definisi": "Keadilan atau peradilan; yustisi.", "contoh": "Yustisi harus ditegakkan."}
+]
+```
+
+Z
+
+```json
+[
+  {"lema": "zakat", "variasi": ["sedekah"], "definisi": "Kewajiban bagi umat Islam untuk menyisihkan harta untuk orang yang berhak.", "contoh": "Zakat fitrah dibayar sebelum Idul Fitri."},
+  {"lema": "zaman", "variasi": ["masa"], "definisi": "Periode waktu yang panjang dengan ciri khas tertentu; zaman.", "contoh": "Zaman dahulu, kehidupan lebih sederhana."},
+  {"lema": "zamrud", "variasi": ["batu"], "definisi": "Batu mulia berwarna hijau; juga nama pulau.", "contoh": "Zamrud itu sangat berharga."},
+  {"lema": "zapin", "variasi": ["tarian"], "definisi": "Tarian tradisional Melayu yang diiringi musik.", "contoh": "Zapin sering dipentaskan di acara adat."},
+  {"lema": "zariat", "variasi": ["keturunan"], "definisi": "Keturunan atau anak cucu; zariat.", "contoh": "Zariat itu melimpah."},
+  {"lema": "zarnan", "variasi": ["warna"], "definisi": "Warna; juga bisa berarti keindahan.", "contoh": "Zarnan itu menawan."},
+  {"lema": "zawiya", "variasi": ["tempat"], "definisi": "Tempat atau sudut; juga biara kecil dalam Islam.", "contoh": "Zawiya itu digunakan untuk ibadah."},
+  {"lema": "zealous", "variasi": ["bersemangat"], "definisi": "Bersemangat atau antusias; zealous.", "contoh": "Dia sangat zealous dalam bekerja."},
+  {"lema": "zebra", "variasi": ["kuda"], "definisi": "Hewan berkuku yang memiliki garis-garis hitam putih.", "contoh": "Zebra itu berlari cepat."},
+  {"lema": "zen", "variasi": ["meditasi"], "definisi": "Aliran dalam Buddhisme yang menekankan meditasi dan pencerahan.", "contoh": "Zen mengajarkan ketenangan batin."},
+  {"lema": "zina", "variasi": ["perbuatan"], "definisi": "Perbuatan hubungan seksual di luar pernikahan yang dilarang dalam Islam.", "contoh": "Zina adalah dosa besar."},
+  {"lema": "zircon", "variasi": ["batu"], "definisi": "Mineral yang sering digunakan sebagai batu permata.", "contoh": "Zircon itu berkilau."},
+  {"lema": "zodiak", "variasi": ["rasi"], "definisi": "Rasi bintang yang digunakan dalam astrologi; zodiak.", "contoh": "Zodiak saya adalah Aries."},
+  {"lema": "zona", "variasi": ["daerah"], "definisi": "Daerah atau wilayah dengan karakteristik tertentu; zona.", "contoh": "Zona itu bebas kendaraan."},
+  {"lema": "zoom", "variasi": ["perbesar"], "definisi": "Memperbesar atau mendekatkan gambar; juga pertemuan online.", "contoh": "Zoom meeting itu diadakan secara virtual."},
+  {"lema": "zuhur", "variasi": ["waktu"], "definisi": "Waktu tengah hari; juga shalat Zuhur.", "contoh": "Shalat Zuhur dikerjakan setelah matahari tergelincir."},
+  {"lema": "zulkifli", "variasi": ["nama"], "definisi": "Nama seseorang dalam tradisi Islam.", "contoh": "Zulkifli adalah sahabat yang setia."},
+  {"lema": "zulkarnain", "variasi": ["nama"], "definisi": "Nama seorang penguasa yang disebut dalam Al-Qur'an.", "contoh": "Zulkarnain adalah pemimpin yang adil."},
+  {"lema": "zuriat", "variasi": ["keturunan"], "definisi": "Keturunan atau anak cucu; zuriat.", "contoh": "Zuriatnya melanjutkan perjuangan."}
+]
+```
