@@ -262,3 +262,111 @@ D
 
 ---
 
+BATCH 3 (LANJUTAN): BAHASA INDONESIA FORMAL - KATA SERAPAN, ISTILAH ILMIAH, TEKNIS, & KHUSUS (E-F)
+
+E
+
+```json
+[
+  {"lema": "ebi", "jenis": "Nomina", "definisi": "Udang kecil yang dikeringkan, biasa digunakan sebagai bumbu atau camilan.", "contoh": "Ebi digunakan untuk membuat sambal."},
+  {"lema": "edafik", "jenis": "Adjektiva", "definisi": "Berkaitan dengan tanah atau pengaruh tanah terhadap kehidupan tumbuhan.", "contoh": "Faktor edafik mempengaruhi pertumbuhan tanaman."},
+  {"lema": "edelweis", "jenis": "Nomina", "definisi": "Bunga abadi yang tumbuh di pegunungan tinggi, melambangkan keabadian.", "contoh": "Bunga edelweis ditemukan di puncak gunung."},
+  {"lema": "edema", "jenis": "Nomina", "definisi": "Pembengkakan jaringan tubuh akibat penumpukan cairan.", "contoh": "Edema di kaki membuatnya sulit berjalan."},
+  {"lema": "edukasi", "jenis": "Nomina", "definisi": "Proses pembelajaran atau pendidikan.", "contoh": "Edukasi kesehatan sangat penting."},
+  {"lema": "efek", "jenis": "Nomina", "definisi": "Akibat atau pengaruh yang timbul dari suatu tindakan.", "contoh": "Efek samping obat itu perlu diperhatikan."},
+  {"lema": "efektif", "jenis": "Adjektiva", "definisi": "Dapat mencapai hasil yang diinginkan; tepat guna.", "contoh": "Cara ini sangat efektif."},
+  {"lema": "efisien", "jenis": "Adjektiva", "definisi": "Dapat menghasilkan hasil maksimal dengan sumber daya minimal.", "contoh": "Mesin ini sangat efisien."},
+  {"lema": "ego", "jenis": "Nomina", "definisi": "Kesadaran diri atau identitas individu; rasa keakuan.", "contoh": "Ego yang tinggi dapat menghambat kerja sama."},
+  {"lema": "egoisme", "jenis": "Nomina", "definisi": "Sikap mementingkan diri sendiri berlebihan; keakuan.", "contoh": "Egoisme merusak hubungan sosial."},
+  {"lema": "ekologi", "jenis": "Nomina", "definisi": "Ilmu yang mempelajari hubungan antara makhluk hidup dan lingkungannya.", "contoh": "Ekologi penting untuk menjaga keseimbangan alam."},
+  {"lema": "ekonomi", "jenis": "Nomina", "definisi": "Kegiatan produksi, distribusi, dan konsumsi barang dan jasa.", "contoh": "Ekonomi Indonesia tumbuh positif."},
+  {"lema": "ekosistem", "jenis": "Nomina", "definisi": "Sistem yang terbentuk dari interaksi makhluk hidup dengan lingkungannya.", "contoh": "Ekosistem hutan sangat kompleks."},
+  {"lema": "ekspor", "jenis": "Nomina", "definisi": "Pengiriman barang ke luar negeri untuk diperdagangkan.", "contoh": "Ekspor kopi meningkat tahun ini."},
+  {"lema": "ekspresi", "jenis": "Nomina", "definisi": "Pengungkapan perasaan atau pikiran; gerakan wajah.", "contoh": "Ekspresi wajahnya menunjukkan kegembiraan."},
+  {"lema": "ekstrem", "jenis": "Adjektiva", "definisi": "Sangat tinggi atau rendah; berlebihan; radikal.", "contoh": "Cuaca ekstrem melanda beberapa wilayah."},
+  {"lema": "ekstra", "jenis": "Adjektiva", "definisi": "Tambahan; ekstra; lebih dari biasa.", "contoh": "Dia mendapat nilai ekstra."},
+  {"lema": "ekstrakurikuler", "jenis": "Nomina", "definisi": "Kegiatan di luar jam pelajaran sekolah untuk mengembangkan minat dan bakat.", "contoh": "Ekstrakurikuler di sekolah ini sangat beragam."},
+  {"lema": "elang", "jenis": "Nomina", "definisi": "Burung pemangsa dengan penglihatan tajam dan sayap lebar.", "contoh": "Elang terbang tinggi di angkasa."},
+  {"lema": "elegan", "jenis": "Adjektiva", "definisi": "Bersifat anggun, bermutu, dan berkelas.", "contoh": "Gaun itu sangat elegan."},
+  {"lema": "elektrik", "jenis": "Adjektiva", "definisi": "Berkaitan dengan listrik; menggunakan tenaga listrik.", "contoh": "Gitar elektrik itu berbunyi keras."},
+  {"lema": "elektronik", "jenis": "Nomina", "definisi": "Perangkat yang menggunakan komponen elektronik untuk berfungsi.", "contoh": "Perangkat elektronik semakin canggih."},
+  {"lema": "elektronika", "jenis": "Nomina", "definisi": "Ilmu yang mempelajari komponen dan perangkat elektronik.", "contoh": "Elektronika adalah bidang studi yang populer."},
+  {"lema": "email", "jenis": "Nomina", "definisi": "Surat elektronik yang dikirim melalui internet.", "contoh": "Saya mengirim email setiap pagi."},
+  {"lema": "emansipasi", "jenis": "Nomina", "definisi": "Proses pembebasan dari ikatan sosial atau hukum; persamaan hak.", "contoh": "Emansipasi wanita terus diperjuangkan."},
+  {"lema": "embargo", "jenis": "Nomina", "definisi": "Larangan perdagangan dengan suatu negara; sanksi ekonomi.", "contoh": "Embargo minyak berdampak pada harga dunia."},
+  {"lema": "embrio", "jenis": "Nomina", "definisi": "Janin pada tahap awal perkembangan di dalam rahim.", "contoh": "Embrio berkembang di dalam rahim."},
+  {"lema": "embun", "jenis": "Nomina", "definisi": "Tetesan air yang terbentuk pada pagi hari di permukaan benda.", "contoh": "Embun pagi menyegarkan."},
+  {"lema": "emigrasi", "jenis": "Nomina", "definisi": "Perpindahan penduduk dari suatu negara ke negara lain untuk menetap.", "contoh": "Emigrasi sering terjadi karena alasan ekonomi."},
+  {"lema": "emisi", "jenis": "Nomina", "definisi": "Pengeluaran gas atau zat berbahaya ke atmosfer.", "contoh": "Emisi karbon harus dikurangi."},
+  {"lema": "emosi", "jenis": "Nomina", "definisi": "Reaksi psikologis yang melibatkan perasaan dan ekspresi.", "contoh": "Dia sulit mengendalikan emosinya."},
+  {"lema": "emotikon", "jenis": "Nomina", "definisi": "Simbol atau gambar yang digunakan untuk menunjukkan ekspresi dalam pesan teks.", "contoh": "Emotikon sering digunakan dalam chat."},
+  {"lema": "empirik", "jenis": "Adjektiva", "definisi": "Didasarkan pada pengalaman atau observasi, bukan teori.", "contoh": "Penelitian empirik sangat penting."},
+  {"lema": "energi", "jenis": "Nomina", "definisi": "Kemampuan untuk melakukan kerja; tenaga.", "contoh": "Energi matahari sangat melimpah."},
+  {"lema": "enggan", "jenis": "Adjektiva", "definisi": "Tidak mau atau merasa berat hati untuk melakukan sesuatu.", "contoh": "Dia enggan pergi ke sekolah."},
+  {"lema": "entitas", "jenis": "Nomina", "definisi": "Sesuatu yang memiliki eksistensi; kesatuan yang utuh.", "contoh": "Setiap entitas memiliki peran sendiri."},
+  {"lema": "entropi", "jenis": "Nomina", "definisi": "Ukuran ketidakteraturan atau ketidakpastian dalam suatu sistem.", "contoh": "Entropi alam semesta terus meningkat."},
+  {"lema": "epidemi", "jenis": "Nomina", "definisi": "Wabah penyakit menular yang menyebar di suatu daerah.", "contoh": "Epidemi flu melanda kota itu."},
+  {"lema": "epistemologi", "jenis": "Nomina", "definisi": "Cabang filsafat yang mempelajari hakikat pengetahuan.", "contoh": "Epistemologi membahas sumber pengetahuan."},
+  {"lema": "era", "jenis": "Nomina", "definisi": "Periode waktu yang panjang dengan ciri khas tertentu; zaman.", "contoh": "Kita hidup di era digital."},
+  {"lema": "erosi", "jenis": "Nomina", "definisi": "Proses pengikisan tanah atau batuan oleh air, angin, atau es.", "contoh": "Erosi menyebabkan tanah longsor."},
+  {"lema": "ert", "jenis": "Nomina", "definisi": "Arti atau makna; juga bisa berarti 'arti' dalam beberapa dialek.", "contoh": "Apa ert kata itu?"},
+  {"lema": "esai", "jenis": "Nomina", "definisi": "Karangan singkat yang membahas suatu topik dari sudut pandang pribadi.", "contoh": "Dia menulis esai tentang pendidikan."},
+  {"lema": "esensial", "jenis": "Adjektiva", "definisi": "Sangat penting atau mutlak diperlukan; hakiki.", "contoh": "Air adalah unsur esensial bagi kehidupan."},
+  {"lema": "estafet", "jenis": "Nomina", "definisi": "Pengiriman sesuatu secara bergiliran dari satu orang ke orang lain.", "contoh": "Lomba estafet itu seru."},
+  {"lema": "estetika", "jenis": "Nomina", "definisi": "Ilmu tentang keindahan dan seni.", "contoh": "Estetika bangunan itu sangat menarik."},
+  {"lema": "etika", "jenis": "Nomina", "definisi": "Ilmu tentang prinsip-prinsip moral dan perilaku yang benar.", "contoh": "Etika profesi sangat penting."},
+  {"lema": "etnis", "jenis": "Nomina", "definisi": "Kelompok manusia yang memiliki asal usul dan budaya yang sama.", "contoh": "Indonesia terdiri dari berbagai etnis."},
+  {"lema": "etos", "jenis": "Nomina", "definisi": "Karakteristik semangat atau nilai yang mendorong suatu kelompok.", "contoh": "Etos kerja karyawan itu tinggi."},
+  {"lema": "evaluasi", "jenis": "Nomina", "definisi": "Penilaian atau penaksiran terhadap hasil atau proses.", "contoh": "Evaluasi kinerja diadakan setiap tahun."},
+  {"lema": "evaporasi", "jenis": "Nomina", "definisi": "Proses penguapan air menjadi uap dari permukaan.", "contoh": "Evaporasi terjadi di bawah sinar matahari."},
+  {"lema": "evolusi", "jenis": "Nomina", "definisi": "Perubahan berangsur-angsur dalam jangka waktu panjang.", "contoh": "Teori evolusi diusulkan oleh Darwin."}
+]
+```
+
+F
+
+```json
+[
+  {"lema": "fabel", "jenis": "Nomina", "definisi": "Cerita yang tokohnya adalah hewan dan mengandung pesan moral.", "contoh": "Fabel Si Kancil sangat populer."},
+  {"lema": "fakir", "jenis": "Nomina", "definisi": "Orang yang sangat miskin; kekurangan harta.", "contoh": "Dia hidup sebagai fakir."},
+  {"lema": "fakta", "jenis": "Nomina", "definisi": "Keadaan atau peristiwa yang benar-benar terjadi; kenyataan.", "contoh": "Fakta itu tidak bisa dibantah."},
+  {"lema": "faktor", "jenis": "Nomina", "definisi": "Hal atau unsur yang mempengaruhi suatu kejadian.", "contoh": "Faktor cuaca mempengaruhi hasil panen."},
+  {"lema": "fakultas", "jenis": "Nomina", "definisi": "Bagian dari universitas yang mengelola program studi tertentu.", "contoh": "Dia kuliah di fakultas ekonomi."},
+  {"lema": "falak", "jenis": "Nomina", "definisi": "Ilmu tentang pergerakan benda langit; astronomi.", "contoh": "Falak dipelajari untuk menentukan waktu shalat."},
+  {"lema": "falsafah", "jenis": "Nomina", "definisi": "Pandangan atau pemikiran tentang hakikat kehidupan.", "contoh": "Falsafah hidupnya sederhana."},
+  {"lema": "fantasi", "jenis": "Nomina", "definisi": "Imajinasi atau khayalan yang tidak nyata.", "contoh": "Dia suka membaca cerita fantasi."},
+  {"lema": "fasih", "jenis": "Adjektiva", "definisi": "Lancar dalam berbicara atau membaca.", "contoh": "Dia fasih berbahasa Inggris."},
+  {"lema": "fatal", "jenis": "Adjektiva", "definisi": "Menimbulkan akibat yang sangat parah atau kematian.", "contoh": "Kecelakaan itu fatal."},
+  {"lema": "fatwa", "jenis": "Nomina", "definisi": "Pendapat atau keputusan hukum yang dikeluarkan oleh ulama.", "contoh": "Fatwa itu dikeluarkan oleh MUI."},
+  {"lema": "favorit", "jenis": "Adjektiva", "definisi": "Yang paling disukai atau diunggulkan.", "contoh": "Film favoritku adalah Titanic."},
+  {"lema": "federal", "jenis": "Adjektiva", "definisi": "Bentuk pemerintahan yang terdiri dari beberapa negara bagian.", "contoh": "Amerika adalah negara federal."},
+  {"lema": "feminin", "jenis": "Adjektiva", "definisi": "Sifat yang identik dengan perempuan; lembut.", "contoh": "Dia memiliki sikap feminin."},
+  {"lema": "fenomena", "jenis": "Nomina", "definisi": "Kejadian atau peristiwa yang luar biasa dan dapat diamati.", "contoh": "Fenomena alam itu sangat menarik."},
+  {"lema": "fermentasi", "jenis": "Nomina", "definisi": "Proses penguraian senyawa organik oleh mikroorganisme.", "contoh": "Fermentasi menghasilkan alkohol."},
+  {"lema": "festival", "jenis": "Nomina", "definisi": "Acara yang diadakan secara periodik dengan berbagai kegiatan.", "contoh": "Festival musik itu sangat meriah."},
+  {"lema": "fiksi", "jenis": "Nomina", "definisi": "Cerita atau karya yang tidak nyata; rekaan.", "contoh": "Novel itu bergenre fiksi ilmiah."},
+  {"lema": "filantropi", "jenis": "Nomina", "definisi": "Cinta kasih terhadap sesama manusia; kedermawanan.", "contoh": "Filantropi adalah nilai yang mulia."},
+  {"lema": "film", "jenis": "Nomina", "definisi": "Karya seni yang diputar di bioskop atau televisi; gambar hidup.", "contoh": "Film Indonesia berkembang pesat."},
+  {"lema": "filosofi", "jenis": "Nomina", "definisi": "Pandangan tentang hakikat kehidupan dan eksistensi.", "contoh": "Filosofi hidupnya adalah kedamaian."},
+  {"lema": "final", "jenis": "Adjektiva", "definisi": "Bagian terakhir atau pertandingan penentu.", "contoh": "Pertandingan final sangat seru."},
+  {"lema": "finansial", "jenis": "Adjektiva", "definisi": "Berkaitan dengan keuangan atau uang.", "contoh": "Masalah finansialnya sudah selesai."},
+  {"lema": "fisik", "jenis": "Adjektiva", "definisi": "Berkaitan dengan tubuh atau jasmani.", "contoh": "Kesehatan fisik sangat penting."},
+  {"lema": "fitnah", "jenis": "Nomina", "definisi": "Tuduhan atau berita bohong yang ditujukan untuk merusak nama baik.", "contoh": "Jangan menyebarkan fitnah."},
+  {"lema": "fokus", "jenis": "Verba", "definisi": "Memusatkan perhatian pada satu hal.", "contoh": "Dia fokus belajar."},
+  {"lema": "fonetik", "jenis": "Nomina", "definisi": "Ilmu tentang bunyi bahasa.", "contoh": "Fonetik mempelajari pengucapan."},
+  {"lema": "formal", "jenis": "Adjektiva", "definisi": "Bersifat resmi dan sesuai dengan aturan.", "contoh": "Acara formal itu memerlukan jas."},
+  {"lema": "formula", "jenis": "Nomina", "definisi": "Rumus atau aturan yang digunakan untuk menyelesaikan masalah.", "contoh": "Formula matematika itu rumit."},
+  {"lema": "fosil", "jenis": "Nomina", "definisi": "Sisa-sisa kerangka atau bekas organisme yang membatu.", "contoh": "Fosil dinosaurus ditemukan di tanah."},
+  {"lema": "foto", "jenis": "Nomina", "definisi": "Gambar yang dihasilkan oleh kamera.", "contoh": "Foto itu mengabadikan momen bahagia."},
+  {"lema": "fotokopi", "jenis": "Nomina", "definisi": "Salinan dokumen yang dihasilkan dengan mesin fotokopi.", "contoh": "Dia memfotokopi dokumen itu."},
+  {"lema": "fraksi", "jenis": "Nomina", "definisi": "Bagian atau pecahan dari suatu keseluruhan.", "contoh": "Fraksi kecil dari dana itu dialokasikan."},
+  {"lema": "frekuensi", "jenis": "Nomina", "definisi": "Jumlah kejadian dalam periode waktu tertentu.", "contoh": "Frekuensi gempa meningkat."},
+  {"lema": "friksi", "jenis": "Nomina", "definisi": "Gesekan; konflik antara dua pihak.", "contoh": "Friksi antara pegawai dan atasan terjadi."},
+  {"lema": "frustasi", "jenis": "Nomina", "definisi": "Perasaan kecewa atau gagal mencapai tujuan.", "contoh": "Dia mengalami frustasi setelah gagal ujian."},
+  {"lema": "fundamental", "jenis": "Adjektiva", "definisi": "Mendasar; esensial; prinsip utama.", "contoh": "Hak asasi adalah hak fundamental."},
+  {"lema": "fungsi", "jenis": "Nomina", "definisi": "Peran atau kegunaan dari sesuatu.", "contoh": "Fungsi hati adalah menyaring racun."},
+  {"lema": "furnitur", "jenis": "Nomina", "definisi": "Perabot rumah tangga seperti meja dan kursi.", "contoh": "Furnitur kayu itu berkualitas tinggi."}
+]
+```
+
+---
