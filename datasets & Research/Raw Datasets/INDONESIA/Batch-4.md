@@ -1,5 +1,7 @@
 ```markdown```
-.Json
+
+#json
+
 [
   {"lema": "aduh", "jenis": "Interjeksi", "definisi": "Ungkapan rasa sakit, kaget, atau keluhan ringan dalam percakapan informal; aduh.", "contoh": "Aduh, kakiku kesandung batu."},
   {"lema": "alay", "jenis": "Adjektiva", "definisi": "Gaya bahasa atau perilaku yang dianggap berlebihan, norak, atau tidak wajar menurut standar pergaulan umum; alay.", "contoh": "Tulisannya penuh angka dan huruf kapital, alay banget."},
